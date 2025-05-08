@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Fiorella.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250507153157_Init")]
-    partial class Init
+    [Migration("20250508140750_CreateFiorella")]
+    partial class CreateFiorella
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -32,13 +32,12 @@ namespace Fiorella.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("ImgUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Price")
+                        .HasColumnType("int");
 
                     b.Property<string>("Title")
                         .IsRequired()
@@ -46,7 +45,7 @@ namespace Fiorella.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Flower");
+                    b.ToTable("Flowers");
                 });
 #pragma warning restore 612, 618
         }

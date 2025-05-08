@@ -15,7 +15,6 @@ public class DashboardController : Controller
     }
     public IActionResult Index()
     {
-        List<Flower> flowers = _context.Flowers.ToList();
-        return View(flowers);
+        return View();
     }
 }

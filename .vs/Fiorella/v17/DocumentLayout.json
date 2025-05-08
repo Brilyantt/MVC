@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\areas\\admin\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\areas\\admin\\views\\flower\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\views\\flower\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\areas\\admin\\views\\flower\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\views\\flower\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +51,24 @@
       "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Migrations\\20250508140531_CreateFiorella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fiorella\\Migrations\\20250508140531_CreateFiorella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,12 +79,8 @@
       "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\migrations\\20250507153453_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\migrations\\20250507153453_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorella\\migrations\\20250508140750_createfiorella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\migrations\\20250508140750_createfiorella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,89 +90,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGUAAABBAAAA",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\Flower\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Views\\Flower\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\Flower\\Create.cshtml",
+              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Views\\Flower\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T05:48:02.338Z",
+              "WhenOpened": "2025-05-08T19:14:35.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Services\\FlowerService.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Services\\FlowerService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Services\\FlowerService.cs",
+              "RelativeToolTip": "Fiorella\\Services\\FlowerService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwC4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:10:17.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Fiorella\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "Fiorella\\Contexts\\AppDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T15:14:51.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T14:28:34.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Fiorella\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Fiorella\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T14:06:58.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Program.cs",
               "RelativeDocumentMoniker": "Fiorella\\Program.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Program.cs",
               "RelativeToolTip": "Fiorella\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T13:50:41.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Fiorella\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Fiorella\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAwwCgAAAAfAAAA",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:37:20.539Z",
+              "WhenOpened": "2025-05-07T14:28:34.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T14:53:53.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T14:31:33.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\Flower\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Views\\Flower\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\Flower\\Index.cshtml",
+              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Views\\Flower\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:13:49.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlowerController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Controllers\\FlowerController.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Controllers\\FlowerController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Controllers\\FlowerController.cs",
+              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Controllers\\FlowerController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:12:59.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T05:48:02.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Fiorella\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T14:30:55.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Fiorella\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:37:20.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Fiorella\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T13:37:59.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Fiorella\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:14:51.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Flower.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Models\\Flower.cs",
               "RelativeDocumentMoniker": "Fiorella\\Models\\Flower.cs",
@@ -152,38 +266,47 @@
               "RelativeToolTip": "Fiorella\\Models\\Flower.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:38:51.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T13:38:51.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Fiorella\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Fiorella\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFwAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T13:37:59.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Fiorella\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAAAG4AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fiorella\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fiorella\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T14:53:53.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T14:06:58.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
+              "Title": "20250508140750_CreateFiorella.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Migrations\\20250508140750_CreateFiorella.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Migrations\\20250508140750_CreateFiorella.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Migrations\\20250508140750_CreateFiorella.cs",
+              "RelativeToolTip": "Fiorella\\Migrations\\20250508140750_CreateFiorella.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:07:50.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250508140531_CreateFiorella.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Migrations\\20250508140531_CreateFiorella.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Migrations\\20250508140531_CreateFiorella.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Migrations\\20250508140531_CreateFiorella.cs",
+              "RelativeToolTip": "Fiorella\\Migrations\\20250508140531_CreateFiorella.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:05:31.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Fiorella\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -191,12 +314,11 @@
               "RelativeToolTip": "Fiorella\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T15:11:52.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T15:11:52.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Fiorella\\ScaffoldingReadMe.txt",
@@ -204,25 +326,11 @@
               "RelativeToolTip": "Fiorella\\ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-07T14:19:06.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T14:19:06.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20250507153453_Initialize.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Migrations\\20250507153453_Initialize.cs",
-              "RelativeDocumentMoniker": "Fiorella\\Migrations\\20250507153453_Initialize.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Migrations\\20250507153453_Initialize.cs",
-              "RelativeToolTip": "Fiorella\\Migrations\\20250507153453_Initialize.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T15:34:53.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Fiorella\\Views\\_ViewStart.cshtml",
@@ -230,8 +338,7 @@
               "RelativeToolTip": "Fiorella\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T13:43:58.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T13:43:58.25Z"
             }
           ]
         }

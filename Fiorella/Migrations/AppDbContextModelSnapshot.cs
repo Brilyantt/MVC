@@ -29,13 +29,12 @@ namespace Fiorella.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("ImgUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Price")
+                        .HasColumnType("int");
 
                     b.Property<string>("Title")
                         .IsRequired()
@@ -43,7 +42,7 @@ namespace Fiorella.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Flower");
+                    b.ToTable("Flowers");
                 });
 #pragma warning restore 612, 618
         }

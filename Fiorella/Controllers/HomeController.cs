@@ -20,7 +20,7 @@ namespace Fiorella.Controllers
             Flower flower2 = new Flower()
             {
                 Id = 2,
-                Title = "Peony",
+                Title = "Jasmine",
                 Price = 20,
                 ImgUrl = "shop-14-img.jpg"
             };
@@ -28,7 +28,7 @@ namespace Fiorella.Controllers
             Flower flower3 = new Flower()
             {
                 Id = 3,
-                Title = "Peony",
+                Title = "Rose",
                 Price = 25,
                 ImgUrl = "shop-14-img.jpg"
             };
