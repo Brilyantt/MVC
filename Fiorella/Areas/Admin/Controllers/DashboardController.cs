@@ -1,13 +1,21 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Fiorella.Contexts;
+using Fiorella.Models;
+using Microsoft.AspNetCore.Mvc;
 
-namespace Fiorella.Areas.Admin.Controllers
+namespace Fiorella.Areas.Admin.Controllers;
+
+[Area("Admin")]
+public class DashboardController : Controller
 {
-    [Area("Admin")]
-    public class DashboardController : Controller
+
+    private readonly AppDbContext _context;
+    public DashboardController()
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        _context = new AppDbContext();
+    }
+    public IActionResult Index()
+    {
+        List<Flower> flowers = _context.Flowers.ToList();
+        return View(flowers);
     }
 }
