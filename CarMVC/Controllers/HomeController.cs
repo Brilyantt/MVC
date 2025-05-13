@@ -1,19 +1,20 @@
 ﻿using CarMVC.Contexts;
 using CarMVC.Models;
+using CarMVC.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CarMVC.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly AppDbContext _context;
+    private readonly FeaturedCarService _featuredCarService;
     public HomeController()
     {
-        _context = new AppDbContext();
+        _featuredCarService = new FeaturedCarService();
     }
     public IActionResult Index()
     {
-        List<FeaturedCar> featuredCars = _context.featuredCars.ToList();
+        List<FeaturedCar> featuredCars = _featuredCarService.GetAllFeaturedCars();
         return View(featuredCars);
     }
 }

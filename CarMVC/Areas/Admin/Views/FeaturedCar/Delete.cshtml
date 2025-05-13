@@ -1,0 +1,41 @@
+﻿@model FeaturedCar
+
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-sm-12 col-md-8 col-lg-6">
+            <div class="bg-secondary rounded p-4">
+                <h6 class="mb-4 text-white"></h6>
+                <form asp-area="Admin" asp-controller="FeaturedCar" asp-action="Delete" method="post">
+                    <div class="mb-3">
+                        <label for="" class="form-label text-white">Imgurl</label>
+                        <input disabled asp-for="ImgUrl" class="form-control" id="">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="" class="form-label text-white">Name</label>
+                        <input disabled  asp-for="Name" class="form-control" id="">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="" class="form-label text-white">Description</label>
+                        <input disabled asp-for="Description" class="form-control" id="">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="" class="form-label text-white">Model</label>
+                        <input disabled asp-for="Model" class="form-control" id="">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="" class="form-label text-white">Price</label>
+                        <input disabled asp-for="Price" class="form-control" id="">
+                    </div>
+
+
+
+                    <button type="submit" class="btn btn-primary">Delete</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
