@@ -2,6 +2,7 @@
 using CharityMVC.Exceptions;
 using CharityMVC.Models;
 using CharityMVC.ViewModel;
+using Microsoft.EntityFrameworkCore;
 
 namespace CharityMVC.Services;
 
@@ -31,7 +32,7 @@ public class OurSectionService
 
         ourSection.ImgPath = fullName;
 
-        string uploadedPath = "C:\\Users\\ca r221.14\\source\\repos\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img";
+        string uploadedPath = "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img";
 
 
         if (!Directory.Exists(uploadedPath))
@@ -60,7 +61,7 @@ public class OurSectionService
 
     public OurSection GetOurSectionById(int id)
     {
-        OurSection ourSection = _ourSectionContext.OurSections.Find(id);
+        OurSection? ourSection = _ourSectionContext.OurSections.Find(id);
 
         if (ourSection is not null)
         {
@@ -73,10 +74,39 @@ public class OurSectionService
 
     #region Update
 
+    public void Update(int id, OurSection updatedSection)
+       { if (id != updatedSection.Id)
+        {
+            throw new OurSectionException("hemin id-ler eyni deyil");
+        }
+
+       OurSection baseOurSection = _ourSectionContext.OurSections.AsNoTracking().SingleOrDefault(s => s.Id == id);
+        if (baseOurSection is not null)
+        {
+            throw new OurSectionException("hemin id-li data tapilmadi");
+        }
+
+        _ourSectionContext.OurSections.Add(updatedSection);
+        _ourSectionContext.SaveChanges() ;
+        }
 
     #endregion
 
     #region Delete
+
+    public void Delete(int id)
+    {
+        OurSection? ourSection = _ourSectionContext.OurSections.Find(id);
+        if (ourSection is not null)
+        {
+            _ourSectionContext.Remove(ourSection);
+            _ourSectionContext.SaveChanges() ;
+        }
+        else
+        {
+            throw new OurSectionException("hemin id-li data tapilmadi");
+        }
+    }
 
     #endregion
 }

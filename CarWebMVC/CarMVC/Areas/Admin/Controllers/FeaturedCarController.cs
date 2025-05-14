@@ -26,19 +26,25 @@ public class FeaturedCarController : Controller
         return View(featuredCars);
     }
 
+    #region Create
+
     [HttpGet]
     public IActionResult Create()
     {
         return View();
     }
 
-  
+
     [HttpPost]
     public IActionResult Create(FeaturedCar car)
     {
         _featuredCarService.CreateFeaturedcar(car);
         return RedirectToAction(nameof(Index));
     }
+
+    #endregion
+
+    #region Update
 
     [HttpGet]
 
@@ -55,6 +61,9 @@ public class FeaturedCarController : Controller
         return RedirectToAction(nameof(Index));
     }
 
+    #endregion
+
+    #region Delete
     [HttpGet]
 
     public IActionResult Delete(int id)
@@ -73,4 +82,6 @@ public class FeaturedCarController : Controller
         _featuredCarService.DeleteFeaturedCar(id);
         return RedirectToAction(nameof(Index));
     }
+
+    #endregion
 }

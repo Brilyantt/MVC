@@ -7601,11 +7601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\CarMVC.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\CarMVC.csproj",
       "projectName": "CarMVC",
-      "projectPath": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\CarMVC.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\CarMVC.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

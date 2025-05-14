@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Fiorella.csproj": {}
+    "C:\\Users\\HP\\Desktop\\MVC\\FiorellaMVC\\Fiorella\\Fiorella.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Fiorella.csproj": {
+    "C:\\Users\\HP\\Desktop\\MVC\\FiorellaMVC\\Fiorella\\Fiorella.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Fiorella.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MVC\\FiorellaMVC\\Fiorella\\Fiorella.csproj",
         "projectName": "Fiorella",
-        "projectPath": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\Fiorella.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MVC\\FiorellaMVC\\Fiorella\\Fiorella.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\MVC\\Fiorella\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MVC\\FiorellaMVC\\Fiorella\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

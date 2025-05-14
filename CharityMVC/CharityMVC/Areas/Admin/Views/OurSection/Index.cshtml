@@ -13,6 +13,9 @@
                             <th scope="col">Category</th>
                             <th scope="col">Raised Price</th>
                             <th scope="col">Goal Price</th>
+                            <th scope="col">Actions</th>
+
+
                         </tr>
                     </thead>
                     <tbody>
@@ -24,6 +27,13 @@
                                 <td>@item.Category</td>
                                 <td>@item.RaisedPrice</td>
                                 <td>@item.GoalPrice</td>
+                                <td>
+                                    <a asp-area="Admin" asp-controller="OurSection" asp-action="Info" asp-route-id="@item.Id" class="btn btn-outline-info m-2">Info</a>
+                                    <a asp-area="Admin" asp-controller="OurSection" asp-action="Update" asp-route-id="@item.Id" class="btn btn-outline-warning m-2">Update</a>
+                                    <a asp-area="Admin" asp-controller="OurSection" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger m-2">Delete</a>
+
+
+                                </td>
                             </tr>
                         }
 

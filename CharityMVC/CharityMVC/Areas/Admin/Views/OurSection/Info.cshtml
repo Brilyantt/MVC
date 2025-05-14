@@ -1,0 +1,46 @@
+﻿@using CharityMVC.Models
+@model OurSection
+<!-- Table Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-6">
+            <div class="bg-secondary rounded h-100 p-4">
+                <h6 class="mb-4">Basic Table</h6>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Category</th>
+                            <th scope="col">Raised Price</th>
+                            <th scope="col">Goal Price</th>
+                            <th scope="col">Actions</th>
+
+
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                       
+                            <tr>
+                                <th scope="row">@Model.Id</th>
+                                <td>@Model.Category</td>
+                                <td>@Model.RaisedPrice</td>
+                                <td>@Model.GoalPrice</td>
+                                <td>
+                                    <a asp-area="Admin" asp-controller="OurSection" asp-action="Info" asp-route-id="@Model.Id" class="btn btn-outline-info m-2">Info</a>
+                                    <a asp-area="Admin" asp-controller="OurSection" asp-action="Update" asp-route-id="@Model.Id" class="btn btn-outline-warning m-2">Update</a>
+                                    <a asp-area="Admin" asp-controller="OurSection" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-outline-danger m-2">Delete</a>
+
+
+                                </td>
+                            </tr>
+                       
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!-- Table End -->
