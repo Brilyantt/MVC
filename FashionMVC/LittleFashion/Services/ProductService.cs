@@ -12,7 +12,10 @@ namespace LittleFashion.Services
             _context = new FeaturedProductContext();
         }
 
-        public List<FeaturedProduct> GetAllProducts() { return _context.FeaturedProducts.ToList(); }
+        public List<FeaturedProduct> GetAllProducts()
+        {
+            return _context.FeaturedProducts.ToList();
+        }
 
 
     }
