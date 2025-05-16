@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MdtOutqnIfBBl0++suEfOB0wFEfx5LLoaIgODpNiF9g=",
+  "Hash": "bpcPQTyRgapovABYBslvBspeQ2e0x8NqCPtYg4e+LRE=",
   "Source": "CharityMVC",
   "BasePath": "_content/CharityMVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CharityMVC\\wwwroot",
       "Source": "CharityMVC",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\css\\bootstrap.min.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\css\\style.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/css/style.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\img\\testimonial-1.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\img\\testimonial-1.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/img/testimonial-1.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\img\\testimonial-2.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\img\\testimonial-2.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/img/testimonial-2.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\img\\user.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\img\\user.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/img/user.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\img\\user.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\js\\main.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\js\\main.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/js/main.js",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\chart\\chart.min.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\chart\\chart.min.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/chart/chart.min.js",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\chart\\chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\easing\\easing.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\easing\\easing.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/easing/easing.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\easing\\easing.min.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\LICENSE",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\moment.min.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/tempusdominus/js/moment.min.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/tempusdominus/js/moment-timezone.min.js",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\waypoints\\links.php",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\waypoints\\links.php",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/waypoints/links.php",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\admin\\assets\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "admin/assets/lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/css/bootstrap-icons.css",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap-icons.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\css\\templatemo-kind-heart-charity.css",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\css\\templatemo-kind-heart-charity.css",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/css/templatemo-kind-heart-charity.css",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\templatemo-kind-heart-charity.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/fonts/bootstrap-icons.woff",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/fonts/bootstrap-icons.woff2",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/fonts/Metropolis/Metropolis-Bold.woff",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff2",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff2",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/fonts/Metropolis/Metropolis-Bold.woff2",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff2"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/fonts/Metropolis/Metropolis-Light.woff",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff2",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff2",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/fonts/Metropolis/Metropolis-Light.woff2",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff2"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/fonts/Metropolis/Metropolis-Regular.woff",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff2",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff2",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/fonts/Metropolis/Metropolis-Regular.woff2",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/fonts/Metropolis/Metropolis-SemiBold.woff",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/fonts/Metropolis/Metropolis-SemiBold.woff2",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/avatar/portrait-young-beautiful-woman-gesticulating.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/avatar/portrait-young-redhead-bearded-male.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/avatar/studio-portrait-emotional-happy-funny.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/causes/african-woman-pouring-water-recipient-outdoors.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\causes\\group-african-kids-paying-attention-class.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\causes\\group-african-kids-paying-attention-class.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/causes/group-african-kids-paying-attention-class.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\causes\\group-african-kids-paying-attention-class.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/causes/poor-child-landfill-looks-forward-with-hope.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\different-people-doing-volunteer-work.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\different-people-doing-volunteer-work.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/different-people-doing-volunteer-work.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\different-people-doing-volunteer-work.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\group-people-volunteering-foodbank-poor-people.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\group-people-volunteering-foodbank-poor-people.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/group-people-volunteering-foodbank-poor-people.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\group-people-volunteering-foodbank-poor-people.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\icons\\hands.png",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\icons\\hands.png",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/icons/hands.png",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\hands.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\icons\\heart.png",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\icons\\heart.png",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/icons/heart.png",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\heart.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\icons\\receive.png",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\icons\\receive.png",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/icons/receive.png",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\receive.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\icons\\scholarship.png",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\icons\\scholarship.png",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/icons/scholarship.png",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\scholarship.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\benjamin03a38f2b-929a-473d-bbba-02ff3773f7c5.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\benjamin03a38f2b-929a-473d-bbba-02ff3773f7c5.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/img/benjamin03a38f2b-929a-473d-bbba-02ff3773f7c5.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\img\\benjamin03a38f2b-929a-473d-bbba-02ff3773f7c5.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\benjamin887ef20d-00e2-4561-bbf7-ff4fae7ce550.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\benjamin887ef20d-00e2-4561-bbf7-ff4fae7ce550.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/img/benjamin887ef20d-00e2-4561-bbf7-ff4fae7ce550.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\img\\benjamin887ef20d-00e2-4561-bbf7-ff4fae7ce550.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\Müzü637b140e-4b31-49c3-8680-e366f749b3d9.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\Müzü637b140e-4b31-49c3-8680-e366f749b3d9.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/img/Müzü637b140e-4b31-49c3-8680-e366f749b3d9.jpg",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\img\\Müzü637b140e-4b31-49c3-8680-e366f749b3d9.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\Screenshot (1)1831650d-96b8-4ff0-8153-1d6c479f6cd9.png",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\Screenshot (1)1831650d-96b8-4ff0-8153-1d6c479f6cd9.png",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/img/Screenshot (1)1831650d-96b8-4ff0-8153-1d6c479f6cd9.png",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\img\\Screenshot (1)1831650d-96b8-4ff0-8153-1d6c479f6cd9.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\Screenshot (1)4f8be3ce-de76-4c6e-b9f3-3552e7bd3cec.png",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\Screenshot (1)4f8be3ce-de76-4c6e-b9f3-3552e7bd3cec.png",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/img/Screenshot (1)4f8be3ce-de76-4c6e-b9f3-3552e7bd3cec.png",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\img\\Screenshot (1)4f8be3ce-de76-4c6e-b9f3-3552e7bd3cec.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\Screenshot (1)9d969db0-79bd-46f8-9ad4-6e9b10c60475.png",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\Screenshot (1)9d969db0-79bd-46f8-9ad4-6e9b10c60475.png",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/img/Screenshot (1)9d969db0-79bd-46f8-9ad4-6e9b10c60475.png",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\img\\Screenshot (1)9d969db0-79bd-46f8-9ad4-6e9b10c60475.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\Screenshot (1)bfb8e7de-d756-4fbf-a3ad-94ddedefeaae.png",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\img\\Screenshot (1)bfb8e7de-d756-4fbf-a3ad-94ddedefeaae.png",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/img/Screenshot (1)bfb8e7de-d756-4fbf-a3ad-94ddedefeaae.png",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\img\\Screenshot (1)bfb8e7de-d756-4fbf-a3ad-94ddedefeaae.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\logo.png",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\logo.png",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/logo.png",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\news\\africa-humanitarian-aid-doctor.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\news\\africa-humanitarian-aid-doctor.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/news/africa-humanitarian-aid-doctor.jpg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\news\\africa-humanitarian-aid-doctor.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\news\\close-up-happy-people-working-together.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\news\\close-up-happy-people-working-together.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/news/close-up-happy-people-working-together.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\news\\close-up-happy-people-working-together.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/news/close-up-volunteer-oganizing-stuff-donation.jpg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/news/medium-shot-people-collecting-foodstuff.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/news/medium-shot-volunteers-with-clothing-donations.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/portrait-volunteer-who-organized-donations-charity.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\slide\\medium-shot-people-collecting-donations.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\slide\\medium-shot-people-collecting-donations.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/slide/medium-shot-people-collecting-donations.jpg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slide\\medium-shot-people-collecting-donations.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\slide\\volunteer-helping-with-donation-box.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\slide\\volunteer-helping-with-donation-box.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/slide/volunteer-helping-with-donation-box.jpg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slide\\volunteer-helping-with-donation-box.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/slide/volunteer-selecting-organizing-clothes-donations-charity.jpg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\js\\bootstrap.min.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\js\\click-scroll.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\js\\click-scroll.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/js/click-scroll.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\click-scroll.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\js\\counter.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\js\\counter.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/js/counter.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\counter.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/js/custom.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\js\\jquery.min.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/js/jquery.min.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\js\\jquery.sticky.js",
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\assets\\js\\jquery.sticky.js",
       "SourceId": "CharityMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC\\CharityMVC\\CharityMVC\\wwwroot\\",
       "BasePath": "_content/CharityMVC",
       "RelativePath": "assets/js/jquery.sticky.js",
       "AssetKind": "All",
