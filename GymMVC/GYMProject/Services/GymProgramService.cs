@@ -31,14 +31,14 @@ public class GymProgramService
 
         gymProgram.ImgPath = fullName;
 
-        string uploadedPath = "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\img";
+        string uploadedPath = "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\img";
 
         if (!Directory.Exists(uploadedPath))
         {
             Directory.CreateDirectory(uploadedPath);
         }
 
-        uploadedPath = Path.Combine(uploadedPath, gymProgramVM.Name);
+        uploadedPath = Path.Combine(uploadedPath, fullName);
 
         using FileStream stream = new FileStream(uploadedPath, FileMode.Create);
         gymProgramVM.File.CopyTo(stream);
@@ -99,6 +99,10 @@ public class GymProgramService
         {
             _context.Remove(gymProgram);
             _context.SaveChanges();
+        }
+        else
+        {
+            throw new GymProgramException("hemin id-li data tapilmadi");
         }
     }
 

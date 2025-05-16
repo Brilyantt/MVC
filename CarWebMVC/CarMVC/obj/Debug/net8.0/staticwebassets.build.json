@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "flOpTW/dR1qGOayf1magpFhkMwdHVNLbZQLySkV4e2w=",
+  "Hash": "lHIHedOZS/5GECAOyb7nMdAFjk8Wdi7Fx/rxqj4PfXA=",
   "Source": "CarMVC",
   "BasePath": "_content/CarMVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CarMVC\\wwwroot",
       "Source": "CarMVC",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\css\\bootstrap.min.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\css\\style.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/css/style.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\img\\testimonial-1.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\img\\testimonial-1.jpg",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/img/testimonial-1.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\img\\testimonial-2.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\img\\testimonial-2.jpg",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/img/testimonial-2.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\img\\user.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\img\\user.jpg",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/img/user.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\img\\user.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\js\\main.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\js\\main.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/js/main.js",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\chart\\chart.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\chart\\chart.min.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/chart/chart.min.js",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\chart\\chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\easing\\easing.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\easing\\easing.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/easing/easing.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\easing\\easing.min.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\LICENSE",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\moment.min.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/tempusdominus/js/moment.min.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/tempusdominus/js/moment-timezone.min.js",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\waypoints\\links.php",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\waypoints\\links.php",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/waypoints/links.php",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_accordion.scss",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_alert.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_alert.scss",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_badge.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_badge.scss",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_breadcrumb.scss",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_button-group.scss",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_buttons.scss",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_card.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_card.scss",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_carousel.scss",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_close.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_close.scss",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_containers.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_containers.scss",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_dropdown.scss",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_forms.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_forms.scss",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_functions.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_functions.scss",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_grid.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_grid.scss",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_helpers.scss",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_images.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_images.scss",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_list-group.scss",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_mixins.scss",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_modal.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_modal.scss",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_nav.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_nav.scss",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_navbar.scss",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_offcanvas.scss",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_pagination.scss",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_popover.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_popover.scss",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_progress.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_progress.scss",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_reboot.scss",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_root.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_root.scss",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_spinners.scss",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_tables.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_tables.scss",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_toasts.scss",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_tooltip.scss",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_transitions.scss",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_type.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_type.scss",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_variables.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/_variables.scss",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/bootstrap-grid.scss",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/bootstrap-reboot.scss",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/bootstrap-utilities.scss",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/forms/_floating-labels.scss",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/forms/_form-check.scss",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/forms/_form-control.scss",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/forms/_form-range.scss",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/forms/_form-select.scss",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/forms/_form-text.scss",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/forms/_input-group.scss",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/forms/_labels.scss",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/forms/_validation.scss",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/helpers/_clearfix.scss",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/helpers/_colored-links.scss",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/helpers/_position.scss",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/helpers/_ratio.scss",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/helpers/_stretched-link.scss",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/helpers/_text-truncation.scss",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/helpers/_visually-hidden.scss",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_alert.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_caret.scss",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_color-scheme.scss",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_container.scss",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_deprecate.scss",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_forms.scss",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_grid.scss",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_image.scss",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_lists.scss",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_resize.scss",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_table-variants.scss",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_transition.scss",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_utilities.scss",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/mixins/_visually-hidden.scss",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/utilities/_api.scss",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "admin/assets/scss/bootstrap/scss/vendor/_rfs.scss",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\css\\animate.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\css\\animate.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/css/animate.css",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\css\\bootsnav.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\css\\bootsnav.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/css/bootsnav.css",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootsnav.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\css\\flaticon.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\css\\flaticon.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/css/flaticon.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\flaticon.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\css\\font-awesome.min.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\css\\linearicons.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\css\\linearicons.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/css/linearicons.css",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\linearicons.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\css\\owl.carousel.min.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\css\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\css\\owl.theme.default.min.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/css/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\css\\responsive.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\css\\responsive.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/css/responsive.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\css\\style.css",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\Flaticon.eot",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\Flaticon.eot",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/Flaticon.eot",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.eot"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\Flaticon.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\Flaticon.svg",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/Flaticon.svg",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\Flaticon.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\Flaticon.ttf",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/Flaticon.ttf",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.ttf"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\Flaticon.woff",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/Flaticon.woff",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\Linearicons-Free.eot",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\Linearicons-Free.eot",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/Linearicons-Free.eot",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Linearicons-Free.eot"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\Linearicons-Free.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\Linearicons-Free.svg",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/Linearicons-Free.svg",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Linearicons-Free.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\Linearicons-Free.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\Linearicons-Free.ttf",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/Linearicons-Free.ttf",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Linearicons-Free.ttf"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\Linearicons-Free.woff",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\Linearicons-Free.woff",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/Linearicons-Free.woff",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Linearicons-Free.woff"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\fonts\\Linearicons-Free.woff2",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\fonts\\Linearicons-Free.woff2",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/fonts/Linearicons-Free.woff2",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Linearicons-Free.woff2"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\brand\\br1.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\brand\\br1.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/brand/br1.png",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brand\\br1.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\brand\\br2.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\brand\\br2.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/brand/br2.png",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brand\\br2.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\brand\\br3.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\brand\\br3.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/brand/br3.png",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brand\\br3.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\brand\\br4.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\brand\\br4.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/brand/br4.png",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brand\\br4.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\brand\\br5.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\brand\\br5.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/brand/br5.png",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brand\\br5.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\brand\\br6.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\brand\\br6.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/brand/br6.png",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\brand\\br6.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\clients\\c1.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\clients\\c1.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/clients/c1.png",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\clients\\c1.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\clients\\c2.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\clients\\c2.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/clients/c2.png",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\clients\\c2.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\clients\\c3.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\clients\\c3.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/clients/c3.png",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\clients\\c3.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc1.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc1.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/featured-cars/fc1.png",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\featured-cars\\fc1.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc2.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc2.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/featured-cars/fc2.png",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\featured-cars\\fc2.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc3.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc3.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/featured-cars/fc3.png",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\featured-cars\\fc3.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc4.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc4.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/featured-cars/fc4.png",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\featured-cars\\fc4.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc5.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc5.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/featured-cars/fc5.png",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\featured-cars\\fc5.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc6.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc6.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/featured-cars/fc6.png",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\featured-cars\\fc6.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc7.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc7.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/featured-cars/fc7.png",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\featured-cars\\fc7.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc8.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\featured-cars\\fc8.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/featured-cars/fc8.png",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\featured-cars\\fc8.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\new-cars-model\\ncm1.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\new-cars-model\\ncm1.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/new-cars-model/ncm1.png",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\new-cars-model\\ncm1.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\new-cars-model\\ncm2.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\new-cars-model\\ncm2.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/new-cars-model/ncm2.png",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\new-cars-model\\ncm2.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\new-cars-model\\ncm3.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\new-cars-model\\ncm3.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/new-cars-model/ncm3.png",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\new-cars-model\\ncm3.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\images\\welcome-hero\\welcome-banner.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\welcome-hero\\welcome-banner.jpg",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/images/welcome-hero/welcome-banner.jpg",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\welcome-hero\\welcome-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\js\\bootsnav.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\js\\bootsnav.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/js/bootsnav.js",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootsnav.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\js\\bootstrap.min.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/js/custom.js",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\js\\feather.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\js\\feather.min.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/js/feather.min.js",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\feather.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\js\\jquery.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\js\\jquery.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/js/jquery.js",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\js\\owl.carousel.min.js",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\assets\\logo\\favicon.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\logo\\favicon.png",
       "SourceId": "CarMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\",
       "BasePath": "_content/CarMVC",
       "RelativePath": "assets/logo/favicon.png",
       "AssetKind": "All",

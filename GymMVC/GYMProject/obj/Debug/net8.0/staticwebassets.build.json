@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oCapv4xYLw2TKpi3qygnxLFjzcECZ8KWUeiop4XPFbI=",
+  "Hash": "sSIxL7QQFjJJhCVKt3Uhgfg4Qwgv/8aAnGipe9JRXEk=",
   "Source": "GYMProject",
   "BasePath": "_content/GYMProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GYMProject\\wwwroot",
       "Source": "GYMProject",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\css\\maps\\style.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\css\\maps\\style.css.map",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/css/maps/style.css.map",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\css\\maps\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\css\\style.css",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/css/style.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\auth\\lockscreen-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\auth\\lockscreen-bg.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/auth/lockscreen-bg.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\auth\\login-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\auth\\login-bg.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/auth/login-bg.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\auth\\login-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\auth\\register-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\auth\\register-bg.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/auth/register-bg.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\auth\\register-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face1.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face10.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face10.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face11.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face11.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face12.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face12.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face13.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face13.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face14.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face14.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face15.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face15.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face16.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face16.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face17.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face17.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face18.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face18.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face19.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face19.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face2.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face20.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face20.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face21.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face21.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face22.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face22.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face23.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face23.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face24.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face24.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face25.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face25.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face26.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face26.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face27.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face27.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face3.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face4.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face5.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face6.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face7.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face8.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/faces/face9.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\favicon.png",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/favicon.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\logo.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\logo.svg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/logo.svg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/images/logo-mini.svg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\logo-mini.svg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\js\\chart.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\js\\chart.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/js/chart.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\js\\Chart.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\js\\Chart.min.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/js/Chart.min.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\js\\dashboard.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\js\\dashboard.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/js/dashboard.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\js\\data-table.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\js\\data-table.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/js/data-table.js",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\data-table.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\js\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\js\\dataTables.bootstrap4.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/js/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\js\\documentation.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\js\\documentation.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/js/documentation.js",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\documentation.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\js\\file-upload.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\js\\file-upload.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/js/file-upload.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\file-upload.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/js/hoverable-collapse.js",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\hoverable-collapse.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\js\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\js\\jquery.dataTables.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/js/jquery.dataTables.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\js\\off-canvas.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\js\\off-canvas.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/js/off-canvas.js",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\off-canvas.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\js\\tabs.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\js\\tabs.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/js/tabs.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\tabs.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\js\\template.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\js\\template.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/js/template.js",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\template.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_background.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_background.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_background.scss",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_background.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_demo.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_demo.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_demo.scss",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_demo.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_fonts.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_fonts.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_fonts.scss",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_fonts.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_footer.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_footer.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_footer.scss",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_functions.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_functions.scss",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_layouts.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_layouts.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_layouts.scss",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_layouts.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_misc.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_misc.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_misc.scss",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_navbar.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_reset.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_reset.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_reset.scss",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_reset.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_sidebar.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_sidebar.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_sidebar.scss",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_typography.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_typography.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_typography.scss",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_utilities.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_variables.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_variables.scss",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\_vertical-wrapper.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\_vertical-wrapper.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/_vertical-wrapper.scss",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_vertical-wrapper.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_badges.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_badges.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/components/_badges.scss",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_bootstrap-progress.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/components/_bootstrap-progress.scss",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_bootstrap-progress.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_buttons.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_buttons.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_cards.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_cards.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/components/_cards.scss",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_checkbox-radio.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/components/_checkbox-radio.scss",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_checkbox-radio.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_dropdown.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_dropdown.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/components/_dropdown.scss",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_forms.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_forms.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_icons.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_icons.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/components/_icons.scss",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_icons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_lists.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_lists.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/components/_lists.scss",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_tables.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\_tables.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/components/_tables.scss",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\components\\plugin-overrides\\_data-tables.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/components/plugin-overrides/_data-tables.scss",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\plugin-overrides\\_data-tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\landing-screens\\_auth.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\landing-screens\\_auth.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/landing-screens/_auth.scss",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\landing-screens\\_auth.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\mixins\\_animation.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\mixins\\_animation.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/mixins/_animation.scss",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_animation.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\mixins\\_badges.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\mixins\\_badges.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/mixins/_badges.scss",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\mixins\\_blockqoute.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/mixins/_blockqoute.scss",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_blockqoute.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\mixins\\_buttons.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\mixins\\_cards.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\mixins\\_cards.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/mixins/_cards.scss",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\mixins\\_misc.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\mixins\\_misc.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/mixins/_misc.scss",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\assets\\scss\\style.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\assets\\scss\\style.scss",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/assets/scss/style.scss",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/vendors/base/vendor.bundle.base.css",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/vendors/base/vendor.bundle.base.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/vendors/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/vendors/datatables.net/jquery.dataTables.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/vendors/datatables.net-bs4/dataTables.bootstrap4.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/vendors/mdi/css/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.svg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\css\\font-awesome.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\css\\font-awesome.css",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/css/font-awesome.css",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\css\\templatemo-training-studio.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\css\\templatemo-training-studio.css",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/css/templatemo-training-studio.css",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\templatemo-training-studio.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\Flaticon.woff",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/Flaticon.woff",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/flexslider-icon.eot",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.eot"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/flexslider-icon.svg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/flexslider-icon.ttf",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/flexslider-icon.woff",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.woff"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\slick.eot",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\slick.eot",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/slick.eot",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.eot"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\slick.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\slick.svg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/slick.svg",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.svg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\slick.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\slick.ttf",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/slick.ttf",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\fonts\\slick.woff",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\fonts\\slick.woff",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/fonts/slick.woff",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.woff"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\contact-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\contact-bg.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/contact-bg.jpg",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\contact-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\cta-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\cta-bg.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/cta-bg.jpg",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\cta-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\features-first-icon.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\features-first-icon.png",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/features-first-icon.png",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\features-first-icon.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\first-trainer.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\first-trainer.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/first-trainer.jpg",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\first-trainer.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\gym-video.mp4",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\gym-video.mp4",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/gym-video.mp4",
       "AssetKind": "All",
@@ -2202,10 +2202,67 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\gym-video.mp4"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\line-dec.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\img\\Lili4c642a67-263f-4684-8659-38e5fed2e680.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
+      "BasePath": "_content/GYMProject",
+      "RelativePath": "assets/images/img/Lili4c642a67-263f-4684-8659-38e5fed2e680.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\img\\Lili4c642a67-263f-4684-8659-38e5fed2e680.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\img\\Screenshot 2024-11-16 0826194c545527-f381-4c33-be23-627f0e8c06c3.png",
+      "SourceId": "GYMProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
+      "BasePath": "_content/GYMProject",
+      "RelativePath": "assets/images/img/Screenshot 2024-11-16 0826194c545527-f381-4c33-be23-627f0e8c06c3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\img\\Screenshot 2024-11-16 0826194c545527-f381-4c33-be23-627f0e8c06c3.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\img\\Screenshot 2024-11-16 0826198eb0a87a-d684-40a0-a3d1-ed92934e19a7.png",
+      "SourceId": "GYMProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
+      "BasePath": "_content/GYMProject",
+      "RelativePath": "assets/images/img/Screenshot 2024-11-16 0826198eb0a87a-d684-40a0-a3d1-ed92934e19a7.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\img\\Screenshot 2024-11-16 0826198eb0a87a-d684-40a0-a3d1-ed92934e19a7.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\line-dec.png",
+      "SourceId": "GYMProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/line-dec.png",
       "AssetKind": "All",
@@ -2221,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\line-dec.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\schedule-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\schedule-bg.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/schedule-bg.jpg",
       "AssetKind": "All",
@@ -2240,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\schedule-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\second-trainer.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\second-trainer.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/second-trainer.jpg",
       "AssetKind": "All",
@@ -2259,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\second-trainer.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\slide-01.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\slide-01.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/slide-01.jpg",
       "AssetKind": "All",
@@ -2278,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slide-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\tabs-first-icon.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\tabs-first-icon.png",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/tabs-first-icon.png",
       "AssetKind": "All",
@@ -2297,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\tabs-first-icon.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\third-trainer.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\third-trainer.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/third-trainer.jpg",
       "AssetKind": "All",
@@ -2316,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\third-trainer.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\training-image-01.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\training-image-01.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/training-image-01.jpg",
       "AssetKind": "All",
@@ -2335,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\training-image-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\training-image-02.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\training-image-02.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/training-image-02.jpg",
       "AssetKind": "All",
@@ -2354,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\training-image-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\training-image-03.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\training-image-03.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/training-image-03.jpg",
       "AssetKind": "All",
@@ -2373,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\training-image-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\images\\training-image-04.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\training-image-04.jpg",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/images/training-image-04.jpg",
       "AssetKind": "All",
@@ -2392,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\training-image-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\js\\accordions.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\js\\accordions.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/js/accordions.js",
       "AssetKind": "All",
@@ -2411,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\accordions.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\js\\bootstrap.min.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2430,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/js/custom.js",
       "AssetKind": "All",
@@ -2449,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\js\\imgfix.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\js\\imgfix.min.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/js/imgfix.min.js",
       "AssetKind": "All",
@@ -2468,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\imgfix.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\js\\jquery.counterup.min.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/js/jquery.counterup.min.js",
       "AssetKind": "All",
@@ -2487,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.counterup.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/js/jquery-2.1.0.min.js",
       "AssetKind": "All",
@@ -2506,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-2.1.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\js\\mixitup.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\js\\mixitup.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/js/mixitup.js",
       "AssetKind": "All",
@@ -2525,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\mixitup.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\js\\popper.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\js\\popper.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/js/popper.js",
       "AssetKind": "All",
@@ -2544,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\js\\scrollreveal.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\js\\scrollreveal.min.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/js/scrollreveal.min.js",
       "AssetKind": "All",
@@ -2563,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\scrollreveal.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\assets\\js\\waypoints.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\js\\waypoints.min.js",
       "SourceId": "GYMProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\GYMProject\\GYMProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
       "BasePath": "_content/GYMProject",
       "RelativePath": "assets/js/waypoints.min.js",
       "AssetKind": "All",

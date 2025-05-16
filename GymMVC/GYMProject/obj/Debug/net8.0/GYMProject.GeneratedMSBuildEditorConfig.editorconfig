@@ -17,59 +17,63 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GYMProject
 build_property.RootNamespace = GYMProject
-build_property.ProjectDir = C:\Users\ca r221.14\source\repos\GYMProject\GYMProject\
+build_property.ProjectDir = C:\Users\HP\Desktop\MVC\GymMVC\GYMProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ca r221.14\source\repos\GYMProject\GYMProject
+build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\MVC\GymMVC\GYMProject
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ca r221.14/source/repos/GYMProject/GYMProject/Areas/Admin/Views/Dashboard/Index.cshtml]
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Areas/Admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca r221.14/source/repos/GYMProject/GYMProject/Areas/Admin/Views/GymProgram/Create.cshtml]
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Areas/Admin/Views/GymProgram/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3ltUHJvZ3JhbVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca r221.14/source/repos/GYMProject/GYMProject/Areas/Admin/Views/GymProgram/Delete.cshtml]
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Areas/Admin/Views/GymProgram/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3ltUHJvZ3JhbVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca r221.14/source/repos/GYMProject/GYMProject/Areas/Admin/Views/GymProgram/Index.cshtml]
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Areas/Admin/Views/GymProgram/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3ltUHJvZ3JhbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca r221.14/source/repos/GYMProject/GYMProject/Areas/Admin/Views/GymProgram/Info.cshtml]
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Areas/Admin/Views/GymProgram/Info.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3ltUHJvZ3JhbVxJbmZvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca r221.14/source/repos/GYMProject/GYMProject/Areas/Admin/Views/GymProgram/Update.cshtml]
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Areas/Admin/Views/GymProgram/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3ltUHJvZ3JhbVxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca r221.14/source/repos/GYMProject/GYMProject/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca r221.14/source/repos/GYMProject/GYMProject/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca r221.14/source/repos/GYMProject/GYMProject/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca r221.14/source/repos/GYMProject/GYMProject/Views/Home/Index.cshtml]
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca r221.14/source/repos/GYMProject/GYMProject/Views/Shared/_Layout.cshtml]
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca r221.14/source/repos/GYMProject/GYMProject/Views/_ViewStart.cshtml]
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/MVC/GymMVC/GYMProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

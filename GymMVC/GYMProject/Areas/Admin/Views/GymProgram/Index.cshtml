@@ -5,17 +5,17 @@
         <div class="card-body">
             <h4 class="card-title">Striped Table</h4>
             <p class="card-description">
-                Add class <code>.table-striped</code>
-            </p>
+                <a asp-area="Admin" asp-controller="GymProgram" asp-action="Create"> Create <code>Table</code></a>
+			</p>
             <div class="table-responsive">
                 <table class="table table-striped">
                     <thead>
                         <tr>
                             <th>
-                                #
+                                image
                             </th>
                             <th>
-                                Image
+                                #
                             </th>
                             <th>
                                 Name
@@ -29,7 +29,7 @@
                         {
                             <tr>
                                 <td class="py-1">
-                                    <img src="~/admin/assets/images/@item.ImgPath" alt="image" />
+                                    <img src="~/assets/images/@item.ImgPath" alt="image" />
                                 </td>
                                 <td>
                                     @item.Id
@@ -44,9 +44,9 @@
                                 </td>
 
                                 <td>
-                                    <a asp-area="Admin" asp-controller="OurSection" asp-action="Info" asp-route-id="@item.Id" class="btn btn-outline-info m-2">Info</a>
-                                    <a asp-area="Admin" asp-controller="OurSection" asp-action="Update" asp-route-id="@item.Id" class="btn btn-outline-warning m-2">Update</a>
-                                    <a asp-area="Admin" asp-controller="OurSection" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger m-2">Delete</a>
+                                    <a asp-area="Admin" asp-controller="GymProgram" asp-action="Info" asp-route-id="@item.Id" class="btn btn-outline-info m-2">Info</a>
+                                    <a asp-area="Admin" asp-controller="GymProgram" asp-action="Update" asp-route-id="@item.Id" class="btn btn-outline-warning m-2">Update</a>
+                                    <a asp-area="Admin" asp-controller="GymProgram" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger m-2">Delete</a>
 
 
                                 </td>
