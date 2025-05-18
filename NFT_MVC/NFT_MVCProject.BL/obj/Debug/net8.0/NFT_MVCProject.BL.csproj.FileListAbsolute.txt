@@ -1,0 +1,15 @@
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\bin\Debug\net8.0\NFT_MVCProject.BL.deps.json
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\bin\Debug\net8.0\NFT_MVCProject.BL.dll
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\bin\Debug\net8.0\NFT_MVCProject.BL.pdb
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\bin\Debug\net8.0\NFT_MVCProject.DAL.dll
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\bin\Debug\net8.0\NFT_MVCProject.DAL.pdb
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\obj\Debug\net8.0\NFT_MVCProject.BL.csproj.AssemblyReference.cache
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\obj\Debug\net8.0\NFT_MVCProject.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\obj\Debug\net8.0\NFT_MVCProject.BL.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\obj\Debug\net8.0\NFT_MVCProject.BL.AssemblyInfo.cs
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\obj\Debug\net8.0\NFT_MVCProject.BL.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\obj\Debug\net8.0\NFT_MVCP.D280C3FE.Up2Date
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\obj\Debug\net8.0\NFT_MVCProject.BL.dll
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\obj\Debug\net8.0\refint\NFT_MVCProject.BL.dll
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\obj\Debug\net8.0\NFT_MVCProject.BL.pdb
+C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.BL\obj\Debug\net8.0\ref\NFT_MVCProject.BL.dll
