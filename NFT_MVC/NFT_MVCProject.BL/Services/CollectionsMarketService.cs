@@ -24,14 +24,14 @@ public class CollectionsMarketService
         collections.CategoryName = collectionsMarketVM.CategoryName;
         collections.CountOfItem = collectionsMarketVM.CountOfItem;
 
-        string fileName = Path.GetFileNameWithoutExtension(collectionsMarketVM.Name);
-        string extension = Path.GetExtension(collectionsMarketVM.Name);
+        string fileName = Path.GetFileNameWithoutExtension(collectionsMarketVM.File.FileName);
+        string extension = Path.GetExtension(collectionsMarketVM.File.FileName);
         string fullname = fileName + Guid.NewGuid().ToString() + extension;
         Console.WriteLine(fullname);
 
         collections.ImgPath = fullname;
 
-        string uploadedPath = "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\img";
+        string uploadedPath = "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\img";
 
         if (!Directory.Exists(uploadedPath))
         {
@@ -80,12 +80,12 @@ public class CollectionsMarketService
         }
 
         CollectionsMarket? basecollectionsMarket = _context.CollectionsMarkets.AsNoTracking().SingleOrDefault(cM => cM.Id == id);
-        if (basecollectionsMarket is not null)
+        if (basecollectionsMarket is  null)
         {
             throw new CollectionsMarketException($"Database-de {id}-li data yoxdur");
         }
 
-        _context.CollectionsMarkets.Update(updatedcollections);
+        _context.CollectionsMarkets.Update( updatedcollections);
         _context.SaveChanges();
     }
 

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.DAL\\NFT_MVCProject.DAL.csproj": {}
+    "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.DAL\\NFT_MVCProject.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.DAL\\NFT_MVCProject.DAL.csproj": {
+    "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.DAL\\NFT_MVCProject.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.DAL\\NFT_MVCProject.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.DAL\\NFT_MVCProject.DAL.csproj",
         "projectName": "NFT_MVCProject.DAL",
-        "projectPath": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.DAL\\NFT_MVCProject.DAL.csproj",
-        "packagesPath": "C:\\Users\\ca r221.14\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.DAL\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.DAL\\NFT_MVCProject.DAL.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ca r221.14\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

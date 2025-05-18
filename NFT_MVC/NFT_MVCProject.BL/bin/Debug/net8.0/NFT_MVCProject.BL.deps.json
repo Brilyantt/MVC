@@ -601,10 +601,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.16"
         },
         "runtime": {
-          "NFT_MVCProject.DAL.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "NFT_MVCProject.DAL.dll": {}
         }
       }
     }

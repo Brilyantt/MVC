@@ -7,23 +7,30 @@
                                 <div class="mb-3">
                                     <label for="exampleInputEmail1" class="form-label">Name</label>
                                     <input asp-for="Name" class="form-control" id=""  >
-                                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.
-                                    </div>
+                <span asp-validation-for="Name" class="text-danger"></span>
 
+                                  </div>
+                             
                                   <div class="mb-3">
                                     <label for="exampleInputEmail1" class="form-label">Category Name</label>
                                     <input asp-for="CategoryName"  class="form-control" id=""  >
-                                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.
-                                    </div>
+                <span asp-validation-for="CategoryName" class="text-danger"></span>
+
+            </div>
 
                                      <div class="mb-3">
                                     <label for="exampleInputEmail1" class="form-label">Count Of Item</label>
                                     <input asp-for="CountOfItem" class="form-control" id=""  >
-                                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.
-                                    </div>
-                                    <div>
-                                        <input asp-for="File" />
-                                    </div>
+                <span asp-validation-for="CountOfItem" class="text-danger"></span>
+
+            </div>
+            <div class="mb-3">
+                <label asp-for="File" class="form-label">Image</label>
+                <input asp-for="File" type="file" class="form-control" />
+                <span asp-validation-for="File" class="text-danger"></span>
+
+            </div>
+
                                 
                                 <button type="submit" class="btn btn-primary">Create</button>
                             </form>

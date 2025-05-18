@@ -12,3 +12,18 @@ C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.DAL\obj\Debug\net
 C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.DAL\obj\Debug\net8.0\NFT_MVCProject.DAL.pdb
 C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.DAL\obj\Debug\net8.0\NFT_MVCProject.DAL.genruntimeconfig.cache
 C:\Users\ca r221.14\source\repos\NFT_MVCProject\NFT_MVCProject.DAL\obj\Debug\net8.0\ref\NFT_MVCProject.DAL.dll
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\bin\Debug\net8.0\NFT_MVCProject.DAL.deps.json
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\bin\Debug\net8.0\NFT_MVCProject.DAL.runtimeconfig.json
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\bin\Debug\net8.0\NFT_MVCProject.DAL.dll
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\bin\Debug\net8.0\NFT_MVCProject.DAL.pdb
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\obj\Debug\net8.0\NFT_MVCProject.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\obj\Debug\net8.0\NFT_MVCProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\obj\Debug\net8.0\NFT_MVCProject.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\obj\Debug\net8.0\NFT_MVCProject.DAL.AssemblyInfo.cs
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\obj\Debug\net8.0\NFT_MVCProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\obj\Debug\net8.0\NFT_MVCProject.DAL.sourcelink.json
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\obj\Debug\net8.0\NFT_MVCProject.DAL.dll
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\obj\Debug\net8.0\refint\NFT_MVCProject.DAL.dll
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\obj\Debug\net8.0\NFT_MVCProject.DAL.pdb
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\obj\Debug\net8.0\NFT_MVCProject.DAL.genruntimeconfig.cache
+C:\Users\HP\Desktop\MVC\NFT_MVC\NFT_MVCProject.DAL\obj\Debug\net8.0\ref\NFT_MVCProject.DAL.dll

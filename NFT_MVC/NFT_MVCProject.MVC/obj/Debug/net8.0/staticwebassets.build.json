@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mG16Toj29oOMMUBThZNo/ZR0+YHW6+9O1/5szqlEfj0=",
+  "Hash": "jCRGOmWE/adRy8/I7pH6/6Vv1Y3sV9AnpVeNuUua0vY=",
   "Source": "NFT_MVCProject.MVC",
   "BasePath": "_content/NFT_MVCProject.MVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "NFT_MVCProject.MVC\\wwwroot",
       "Source": "NFT_MVCProject.MVC",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\css\\maps\\style.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\css\\maps\\style.css.map",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/css/maps/style.css.map",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\css\\maps\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\css\\style.css",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/css/style.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\auth\\lockscreen-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\auth\\lockscreen-bg.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/auth/lockscreen-bg.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\auth\\login-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\auth\\login-bg.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/auth/login-bg.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\auth\\login-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\auth\\register-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\auth\\register-bg.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/auth/register-bg.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\auth\\register-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face1.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face10.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face10.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face11.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face11.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face12.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face12.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face13.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face13.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face14.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face14.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face15.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face15.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face16.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face16.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face17.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face17.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face18.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face18.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face19.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face19.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face2.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face20.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face20.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face21.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face21.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face22.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face22.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face23.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face23.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face24.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face24.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face25.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face25.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face26.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face26.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face27.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face27.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face3.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face4.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face5.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face6.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face7.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face8.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/faces/face9.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\faces\\face9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\favicon.png",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/favicon.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\logo.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\logo.svg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/logo.svg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/images/logo-mini.svg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\logo-mini.svg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\chart.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\chart.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/js/chart.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\Chart.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\Chart.min.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/js/Chart.min.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\dashboard.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\dashboard.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/js/dashboard.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\data-table.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\data-table.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/js/data-table.js",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\data-table.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\dataTables.bootstrap4.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/js/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\documentation.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\documentation.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/js/documentation.js",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\documentation.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\file-upload.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\file-upload.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/js/file-upload.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\file-upload.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/js/hoverable-collapse.js",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\hoverable-collapse.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\jquery.dataTables.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/js/jquery.dataTables.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\off-canvas.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\off-canvas.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/js/off-canvas.js",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\off-canvas.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\tabs.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\tabs.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/js/tabs.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\tabs.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\template.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\js\\template.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/js/template.js",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\template.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_background.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_background.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_background.scss",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_background.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_demo.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_demo.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_demo.scss",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_demo.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_fonts.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_fonts.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_fonts.scss",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_fonts.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_footer.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_footer.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_footer.scss",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_functions.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_functions.scss",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_layouts.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_layouts.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_layouts.scss",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_layouts.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_misc.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_misc.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_misc.scss",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_navbar.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_reset.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_reset.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_reset.scss",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_reset.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_sidebar.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_sidebar.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_sidebar.scss",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_typography.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_typography.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_typography.scss",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_utilities.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_variables.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_variables.scss",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_vertical-wrapper.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\_vertical-wrapper.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/_vertical-wrapper.scss",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\_vertical-wrapper.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_badges.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_badges.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/components/_badges.scss",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_bootstrap-progress.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/components/_bootstrap-progress.scss",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_bootstrap-progress.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_buttons.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_buttons.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_cards.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_cards.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/components/_cards.scss",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_checkbox-radio.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/components/_checkbox-radio.scss",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_checkbox-radio.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_dropdown.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_dropdown.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/components/_dropdown.scss",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_forms.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_forms.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_icons.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_icons.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/components/_icons.scss",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_icons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_lists.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_lists.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/components/_lists.scss",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_tables.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\_tables.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/components/_tables.scss",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\components\\plugin-overrides\\_data-tables.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/components/plugin-overrides/_data-tables.scss",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\components\\plugin-overrides\\_data-tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\landing-screens\\_auth.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\landing-screens\\_auth.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/landing-screens/_auth.scss",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\landing-screens\\_auth.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\mixins\\_animation.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\mixins\\_animation.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/mixins/_animation.scss",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_animation.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\mixins\\_badges.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\mixins\\_badges.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/mixins/_badges.scss",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\mixins\\_blockqoute.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/mixins/_blockqoute.scss",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_blockqoute.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\mixins\\_buttons.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\mixins\\_cards.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\mixins\\_cards.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/mixins/_cards.scss",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\mixins\\_misc.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\mixins\\_misc.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/mixins/_misc.scss",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\mixins\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\style.scss",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\scss\\style.scss",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/scss/style.scss",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\scss\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.css",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/vendors/base/vendor.bundle.base.css",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/vendors/base/vendor.bundle.base.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/vendors/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/vendors/datatables.net/jquery.dataTables.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/vendors/datatables.net-bs4/dataTables.bootstrap4.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/vendors/datatables.net-bs4/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/vendors/mdi/css/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.svg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\css\\animate.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\css\\animate.css",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/css/animate.css",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\css\\flex-slider.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\css\\flex-slider.css",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/css/flex-slider.css",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\flex-slider.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\css\\fontawesome.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\css\\fontawesome.css",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/css/fontawesome.css",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\fontawesome.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\css\\owl.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\css\\owl.css",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/css/owl.css",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\css\\templatemo-liberty-market.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\css\\templatemo-liberty-market.css",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/css/templatemo-liberty-market.css",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\templatemo-liberty-market.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\author.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\author.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/author.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\author.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\author-02.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\author-02.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/author-02.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\author-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\author-03.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\author-03.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/author-03.jpg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\author-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\banner-01.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\banner-01.png",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/banner-01.png",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner-01.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\banner-02.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\banner-02.png",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/banner-02.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner-02.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\banner-bg.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/banner-bg.jpg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\category-collection-dec.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\category-collection-dec.png",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/category-collection-dec.png",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\category-collection-dec.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\collection-01.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\collection-01.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/collection-01.jpg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\collection-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\create-yours.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\create-yours.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/create-yours.jpg",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\create-yours.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\current-01.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\current-01.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/current-01.jpg",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\current-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\current-02.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\current-02.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/current-02.jpg",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\current-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\current-03.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\current-03.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/current-03.jpg",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\current-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\current-04.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\current-04.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/current-04.jpg",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\current-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\dark-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\dark-bg.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/dark-bg.jpg",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\dark-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\discover-01.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\discover-01.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/discover-01.jpg",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\discover-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\discover-02.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\discover-02.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/discover-02.jpg",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\discover-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\discover-03.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\discover-03.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/discover-03.jpg",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\discover-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\discover-04.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\discover-04.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/discover-04.jpg",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\discover-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\discover-05.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\discover-05.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/discover-05.jpg",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\discover-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\discover-06.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\discover-06.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/discover-06.jpg",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\discover-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\featured-01.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\featured-01.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/featured-01.jpg",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\featured-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\featured-02.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\featured-02.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/featured-02.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\featured-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\featured-03.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\featured-03.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/featured-03.jpg",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\featured-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\featured-04.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\featured-04.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/featured-04.jpg",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\featured-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\heading-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\heading-bg.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/heading-bg.jpg",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\heading-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\icon-01.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\icon-01.png",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/icon-01.png",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icon-01.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\icon-02.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\icon-02.png",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/icon-02.png",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icon-02.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\icon-03.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\icon-03.png",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/icon-03.png",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icon-03.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\icon-04.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\icon-04.png",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/icon-04.png",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icon-04.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\icon-05.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\icon-05.png",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/icon-05.png",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icon-05.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\icon-06.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\icon-06.png",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/icon-06.png",
       "AssetKind": "All",
@@ -2449,10 +2449,105 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icon-06.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\item-details-01.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\img\\File1521ff8a-9cfb-447e-8469-d0429e0bf0e0",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
+      "BasePath": "_content/NFT_MVCProject.MVC",
+      "RelativePath": "assets/images/img/File1521ff8a-9cfb-447e-8469-d0429e0bf0e0",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\img\\File1521ff8a-9cfb-447e-8469-d0429e0bf0e0"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\img\\File2539f6d9-4a73-4d41-9b02-879e98a381a3",
+      "SourceId": "NFT_MVCProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
+      "BasePath": "_content/NFT_MVCProject.MVC",
+      "RelativePath": "assets/images/img/File2539f6d9-4a73-4d41-9b02-879e98a381a3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\img\\File2539f6d9-4a73-4d41-9b02-879e98a381a3"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\img\\File2fc291a8-9c02-4a0c-ac11-77dff77ed168",
+      "SourceId": "NFT_MVCProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
+      "BasePath": "_content/NFT_MVCProject.MVC",
+      "RelativePath": "assets/images/img/File2fc291a8-9c02-4a0c-ac11-77dff77ed168",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\img\\File2fc291a8-9c02-4a0c-ac11-77dff77ed168"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\img\\File8082e037-8dc0-4ab6-8856-3fabd9276018",
+      "SourceId": "NFT_MVCProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
+      "BasePath": "_content/NFT_MVCProject.MVC",
+      "RelativePath": "assets/images/img/File8082e037-8dc0-4ab6-8856-3fabd9276018",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\img\\File8082e037-8dc0-4ab6-8856-3fabd9276018"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\img\\Filebd95fd66-8267-425c-82c4-315dc05c6396",
+      "SourceId": "NFT_MVCProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
+      "BasePath": "_content/NFT_MVCProject.MVC",
+      "RelativePath": "assets/images/img/Filebd95fd66-8267-425c-82c4-315dc05c6396",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\img\\Filebd95fd66-8267-425c-82c4-315dc05c6396"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\item-details-01.jpg",
+      "SourceId": "NFT_MVCProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/item-details-01.jpg",
       "AssetKind": "All",
@@ -2468,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\item-details-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\logo.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\logo.png",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/logo.png",
       "AssetKind": "All",
@@ -2487,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\main-bg.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\main-bg.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/main-bg.jpg",
       "AssetKind": "All",
@@ -2506,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\main-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\market-01.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\market-01.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/market-01.jpg",
       "AssetKind": "All",
@@ -2525,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\market-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\single-author.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\images\\single-author.jpg",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/images/single-author.jpg",
       "AssetKind": "All",
@@ -2544,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\single-author.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/js/custom.js",
       "AssetKind": "All",
@@ -2563,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\js\\isotope.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\js\\isotope.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/js/isotope.js",
       "AssetKind": "All",
@@ -2582,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\isotope.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\js\\isotope.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\js\\isotope.min.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/js/isotope.min.js",
       "AssetKind": "All",
@@ -2601,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\isotope.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\js\\owl-carousel.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\js\\owl-carousel.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/js/owl-carousel.js",
       "AssetKind": "All",
@@ -2620,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\owl-carousel.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\js\\popup.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\js\\popup.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/js/popup.js",
       "AssetKind": "All",
@@ -2639,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\popup.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\js\\tabs.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\js\\tabs.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/js/tabs.js",
       "AssetKind": "All",
@@ -2658,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\tabs.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2677,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2696,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/vendor/jquery/jquery.js",
       "AssetKind": "All",
@@ -2715,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\jquery\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/vendor/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -2734,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/vendor/jquery/jquery.min.map",
       "AssetKind": "All",
@@ -2753,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/vendor/jquery/jquery.slim.js",
       "AssetKind": "All",
@@ -2772,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/vendor/jquery/jquery.slim.min.js",
       "AssetKind": "All",
@@ -2791,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/vendor/jquery/jquery.slim.min.map",
       "AssetKind": "All",
@@ -2810,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -2829,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -2848,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -2867,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -2886,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -2905,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -2924,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -2943,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "NFT_MVCProject.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\wwwroot\\",
       "BasePath": "_content/NFT_MVCProject.MVC",
       "RelativePath": "assets/webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",

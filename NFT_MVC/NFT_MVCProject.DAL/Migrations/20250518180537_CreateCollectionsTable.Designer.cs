@@ -11,8 +11,8 @@ using NFT_MVCProject.DAL.Contexts;
 namespace NFT_MVCProject.DAL.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250516123925_CreateNFTMarketsTable")]
-    partial class CreateNFTMarketsTable
+    [Migration("20250518180537_CreateCollectionsTable")]
+    partial class CreateCollectionsTable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

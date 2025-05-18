@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using NFT_MVCProject.BL.Services;
 using NFT_MVCProject.DAL.Contexts;
 
 namespace NFT_MVCProject.MVC;
@@ -11,7 +12,7 @@ public class Program
         builder.Services.AddControllersWithViews();
 
 
-        builder.Services.AddScoped<AppDbContext>();
+        builder.Services.AddScoped<CollectionsMarketService>();
 
         string connectionSTR = builder.Configuration.GetConnectionString("Desktop");
 

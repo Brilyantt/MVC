@@ -5,7 +5,7 @@
 namespace NFT_MVCProject.DAL.Migrations
 {
     /// <inheritdoc />
-    public partial class CreateNFTMarketsTable : Migration
+    public partial class CreateCollectionsTable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

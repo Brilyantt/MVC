@@ -7631,24 +7631,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ca r221.14\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj",
       "projectName": "NFT_MVCProject.MVC",
-      "projectPath": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj",
-      "packagesPath": "C:\\Users\\ca r221.14\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.MVC\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ca r221.14\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7663,8 +7658,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.BL\\NFT_MVCProject.BL.csproj": {
-              "projectPath": "C:\\Users\\ca r221.14\\source\\repos\\NFT_MVCProject\\NFT_MVCProject.BL\\NFT_MVCProject.BL.csproj"
+            "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.BL\\NFT_MVCProject.BL.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.BL\\NFT_MVCProject.BL.csproj"
             }
           }
         }
@@ -7714,7 +7709,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

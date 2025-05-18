@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using NFT_MVCProject.BL.Services;
 using NFT_MVCProject.DAL.Contexts;
 using NFT_MVCProject.DAL.Models;
 using NFT_MVCProject.MVC.ViewModels;
@@ -9,17 +10,17 @@ namespace NFT_MVCProject.MVC.Areas.Admin.Controllers;
 public class CollectionController : Controller
 {
 
-    private readonly AppDbContext _context;
+    private readonly CollectionsMarketService  _collectionsMarketService;
 
-    public CollectionController(AppDbContext context)
+    public CollectionController(CollectionsMarketService collectionsMarketService)
     {
-        _context = context;
+       _collectionsMarketService = collectionsMarketService;
     }
 
     [HttpGet]
     public IActionResult Index()
     {
-        List<CollectionsMarket> collections = _context.CollectionsMarkets.ToList();
+        List<CollectionsMarket> collections = _collectionsMarketService.CollectionsMarkets();
         return View(collections);
     }
 
@@ -28,7 +29,7 @@ public class CollectionController : Controller
 
     public IActionResult Info(int id)
     {
-        CollectionsMarket collectionsMarket = _context.CollectionsMarkets.Find(id);
+        CollectionsMarket collectionsMarket = _collectionsMarketService.GetCollectionsMarketById(id);
         return View(collectionsMarket);
     }
     #region Create
@@ -43,8 +44,9 @@ public class CollectionController : Controller
     {
         if (!ModelState.IsValid)
         {
-            return BadRequest("have issue in model state");
+            return View();
         }
+        _collectionsMarketService.Create(collections);
 
         return RedirectToAction(nameof(Index));
     }
@@ -55,13 +57,13 @@ public class CollectionController : Controller
     [HttpGet]
     public IActionResult Update(int id)
     {
-        CollectionsMarket collectionsMarket = _context.CollectionsMarkets.Find(id);
+        CollectionsMarket collectionsMarket = _collectionsMarketService.GetCollectionsMarketById(id);
         return View(collectionsMarket);
     }
     [HttpPost]
     public IActionResult Update(int id, CollectionsMarket collections)
     {
-        _context.Update(id, collections);
+        _collectionsMarketService.Update(id, collections);
         return RedirectToAction(nameof(Index));
     }
 
@@ -71,7 +73,7 @@ public class CollectionController : Controller
     [HttpGet]
     public IActionResult Delete(int id)
     {
-        CollectionsMarket collections = _context._context.CollectionsMarkets.Find(id);
+        CollectionsMarket collections = _collectionsMarketService.GetCollectionsMarketById(id);
 
 
         return View(collections);
@@ -83,7 +85,7 @@ public class CollectionController : Controller
 
     public IActionResult DeleteItem(int id)
     {
-        _context.Delete(id);
+        _collectionsMarketService.Delete(id);
         return RedirectToAction(nameof(Index));
     }
     #endregion
