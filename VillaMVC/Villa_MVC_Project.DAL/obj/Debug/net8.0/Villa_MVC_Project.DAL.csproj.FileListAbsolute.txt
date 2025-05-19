@@ -1,0 +1,14 @@
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\bin\Debug\net8.0\Villa_MVC_Project.DAL.deps.json
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\bin\Debug\net8.0\Villa_MVC_Project.DAL.runtimeconfig.json
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\bin\Debug\net8.0\Villa_MVC_Project.DAL.dll
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\bin\Debug\net8.0\Villa_MVC_Project.DAL.pdb
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\obj\Debug\net8.0\Villa_MVC_Project.DAL.csproj.AssemblyReference.cache
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\obj\Debug\net8.0\Villa_MVC_Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\obj\Debug\net8.0\Villa_MVC_Project.DAL.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\obj\Debug\net8.0\Villa_MVC_Project.DAL.AssemblyInfo.cs
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\obj\Debug\net8.0\Villa_MVC_Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\obj\Debug\net8.0\Villa_MVC_Project.DAL.dll
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\obj\Debug\net8.0\refint\Villa_MVC_Project.DAL.dll
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\obj\Debug\net8.0\Villa_MVC_Project.DAL.pdb
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\obj\Debug\net8.0\Villa_MVC_Project.DAL.genruntimeconfig.cache
+C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.DAL\obj\Debug\net8.0\ref\Villa_MVC_Project.DAL.dll
