@@ -33,18 +33,18 @@ public class VillaService
 
         villa.ImgPath = fullName;
 
-        string uploadedPath = " C:\\Users\\ca r221.14\\source\\repos\\Villa_MVC_Project\\Villa_MVC_Project.MVC\\wwwroot\\assets\\images\\img";
+        string uploadedPath = "C:\\Users\\HP\\Desktop\\MVC\\VillaMVC\\Villa_MVC_Project.MVC\\wwwroot\\assets\\images\\img";
 
 
-        //if (!Directory.Exists(uploadedPath))
-        //{
-        //    Directory.CreateDirectory(uploadedPath);
-        //}
+        if (!Directory.Exists(uploadedPath))
+       {
+           Directory.CreateDirectory(uploadedPath);
+       }
 
         uploadedPath = Path.Combine(uploadedPath, fullName);
-        using FileStream stream = new FileStream(uploadedPath, FileMode.Create);
+        using FileStream fileStream = new FileStream(uploadedPath, FileMode.Create);
 
-        villaVM.File.CopyTo(stream);
+        villaVM.File.CopyTo(fileStream);
 
         _context.Villas.Add(villa);
         _context.SaveChanges();
@@ -83,12 +83,12 @@ public class VillaService
         }
 
         Villa? baseVilla = _context.Villas.AsNoTracking().SingleOrDefault(v => v.Id == id);
-        if (baseVilla != null)
+        if (baseVilla is null)
         {
             throw new VillaException("Data Yoxdur!");
         }
 
-        _context.Villas.Add(updatedvilla);
+        _context.Villas.Update(updatedvilla);
         _context.SaveChanges();
     }
 
@@ -99,14 +99,16 @@ public class VillaService
 
     public void Delete(int id)
     {
-        Villa villa = _context.Villas.Find(id);
-        if (villa != null)
+        Villa? villa = _context.Villas.Find(id);
+        if (villa is not null)
         {
             _context.Villas.Remove(villa);
             _context.SaveChanges();
         }
-        throw new VillaException("Data Yoxdur!");
-
+        else
+        {
+            throw new VillaException("Data Yoxdur!");
+        }
     }
     #endregion
 }

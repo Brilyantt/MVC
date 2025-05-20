@@ -13,3 +13,19 @@ C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.BL\obj\Debu
 C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.BL\obj\Debug\net8.0\refint\Villa_MVC_Project.BL.dll
 C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.BL\obj\Debug\net8.0\Villa_MVC_Project.BL.pdb
 C:\Users\ca r221.14\source\repos\Villa_MVC_Project\Villa_MVC_Project.BL\obj\Debug\net8.0\ref\Villa_MVC_Project.BL.dll
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\bin\Debug\net8.0\Villa_MVC_Project.BL.deps.json
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\bin\Debug\net8.0\Villa_MVC_Project.BL.dll
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\bin\Debug\net8.0\Villa_MVC_Project.BL.pdb
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\bin\Debug\net8.0\Villa_MVC_Project.DAL.dll
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\bin\Debug\net8.0\Villa_MVC_Project.DAL.pdb
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\obj\Debug\net8.0\Villa_MVC_Project.BL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\obj\Debug\net8.0\Villa_MVC_Project.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\obj\Debug\net8.0\Villa_MVC_Project.BL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\obj\Debug\net8.0\Villa_MVC_Project.BL.AssemblyInfo.cs
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\obj\Debug\net8.0\Villa_MVC_Project.BL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\obj\Debug\net8.0\Villa_MVC_Project.BL.sourcelink.json
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\obj\Debug\net8.0\Villa_MV.36A356D1.Up2Date
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\obj\Debug\net8.0\Villa_MVC_Project.BL.dll
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\obj\Debug\net8.0\refint\Villa_MVC_Project.BL.dll
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\obj\Debug\net8.0\Villa_MVC_Project.BL.pdb
+C:\Users\HP\Desktop\MVC\VillaMVC\Villa_MVC_Project.BL\obj\Debug\net8.0\ref\Villa_MVC_Project.BL.dll

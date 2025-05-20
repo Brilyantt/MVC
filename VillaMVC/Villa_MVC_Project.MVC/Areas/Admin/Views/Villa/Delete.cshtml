@@ -1,11 +1,11 @@
-﻿@model VillaVM
+﻿@model Villa
 
 <div class="col-md-6 grid-margin stretch-card">
     <div class="card">
         <div class="card-body">
-            <h4 class="card-title">Default form</h4>
+            <h4 class="card-title">Create form</h4>
             <p class="card-description">
-                Cretae form layout
+                Create form layout
             </p>
             <form asp-area="Admin" asp-controller="Villa" asp-action="Delete" method="post" enctype="multipart/form-data" class="forms-sample">
                 <div class="form-group">
@@ -22,10 +22,10 @@
                     <input  asp-for="Location" class="form-control" id="">
                 </div>
                 <div>
-                    <input type="File" />
+                    <input asp-for="ImgPath" type="File" />
                 </div>
 
-                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                <button type="submit" class="btn btn-primary mr-2">Delete</button>
 
             </form>
         </div>

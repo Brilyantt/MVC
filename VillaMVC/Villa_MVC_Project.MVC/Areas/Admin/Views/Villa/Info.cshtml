@@ -13,6 +13,9 @@
                     <thead>
                         <tr>
                             <th>
+                                Image
+                            </th>
+                            <th>
                                 Id
                             </th>
                             <th>
@@ -34,7 +37,10 @@
                        
                             <tr>
                                 <td class="py-1">
-                                    <img src="~/admin/assets/images/@Model.ImgPath" alt="image" />
+                                    <img src="~/assets/images/img/@Model.ImgPath" alt="image" />
+                                </td>
+                                <td>
+                                    @Model.Id
                                 </td>
                                 <td>
                                     @Model.CategoryName

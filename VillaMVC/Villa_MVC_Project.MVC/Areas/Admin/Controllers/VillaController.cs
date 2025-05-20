@@ -34,14 +34,14 @@ public class VillaController : Controller
     }
 
     [HttpPost]
-    public IActionResult Create(VillaVM villaVM)
+    public IActionResult Create(VillaVM villas)
     {
         if (!ModelState.IsValid)
         {
-            return BadRequest("Model de problem var");
+            return View();
         }
 
-        _villaService.Create(villaVM);
+        _villaService.Create(villas);
         return RedirectToAction(nameof(Index));
     }
     #endregion
@@ -68,6 +68,7 @@ public class VillaController : Controller
     public IActionResult Delete(int id)
     {
         Villa villa = _villaService.GetVillaById(id);
+        
         return View(villa);
     }
 

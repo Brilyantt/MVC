@@ -1916,10 +1916,7 @@
           "Villa_MVC_Project.DAL": "1.0.0"
         },
         "runtime": {
-          "Villa_MVC_Project.BL.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Villa_MVC_Project.BL.dll": {}
         }
       },
       "Villa_MVC_Project.DAL/1.0.0": {
@@ -1928,10 +1925,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.16"
         },
         "runtime": {
-          "Villa_MVC_Project.DAL.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Villa_MVC_Project.DAL.dll": {}
         }
       }
     }

@@ -11,7 +11,7 @@ namespace Villa_MVC_Project.MVC
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
 
-            string connectionStr = builder.Configuration.GetConnectionString("Desktop");
+            string connectionStr = builder.Configuration.GetConnectionString("HP");
             builder.Services.AddDbContext<AppDbContext>(opt =>
             opt.UseSqlServer(connectionStr)
 

@@ -2032,6 +2032,102 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\download3bf477d1-ebf7-4235-8f7e-1c9a639e97cb.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Villa_MVC_Project.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Villa_MVC_Project.MVC</BasePath>
+      <RelativePath>assets/images/img/download3bf477d1-ebf7-4235-8f7e-1c9a639e97cb.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\download3bf477d1-ebf7-4235-8f7e-1c9a639e97cb.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\download4aa6178f-ca02-49eb-bc79-02149701e9de.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Villa_MVC_Project.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Villa_MVC_Project.MVC</BasePath>
+      <RelativePath>assets/images/img/download4aa6178f-ca02-49eb-bc79-02149701e9de.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\download4aa6178f-ca02-49eb-bc79-02149701e9de.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\downloada9727b50-1927-4975-aa27-989198451695.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Villa_MVC_Project.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Villa_MVC_Project.MVC</BasePath>
+      <RelativePath>assets/images/img/downloada9727b50-1927-4975-aa27-989198451695.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\downloada9727b50-1927-4975-aa27-989198451695.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\Screenshot 2024-11-04 0238166e4c8b7d-c64f-4dc1-9594-9900b826c489.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Villa_MVC_Project.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Villa_MVC_Project.MVC</BasePath>
+      <RelativePath>assets/images/img/Screenshot 2024-11-04 0238166e4c8b7d-c64f-4dc1-9594-9900b826c489.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\Screenshot 2024-11-04 0238166e4c8b7d-c64f-4dc1-9594-9900b826c489.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\Screenshot 2024-11-08 070504774b8195-b291-4bbb-a9f9-1abe2b6e5ec9.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Villa_MVC_Project.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Villa_MVC_Project.MVC</BasePath>
+      <RelativePath>assets/images/img/Screenshot 2024-11-08 070504774b8195-b291-4bbb-a9f9-1abe2b6e5ec9.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\Screenshot 2024-11-08 070504774b8195-b291-4bbb-a9f9-1abe2b6e5ec9.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\Screenshot 2024-11-14 0008390b7289b1-8f58-4ed0-91e1-b409d3800a36.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Villa_MVC_Project.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Villa_MVC_Project.MVC</BasePath>
+      <RelativePath>assets/images/img/Screenshot 2024-11-14 0008390b7289b1-8f58-4ed0-91e1-b409d3800a36.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\Screenshot 2024-11-14 0008390b7289b1-8f58-4ed0-91e1-b409d3800a36.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\info-icon-01.png))">
       <SourceType>Package</SourceType>
       <SourceId>Villa_MVC_Project.MVC</SourceId>
