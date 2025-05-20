@@ -13,3 +13,19 @@ C:\Users\ca r221.14\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\Schol
 C:\Users\ca r221.14\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\refint\ScholarMVC.BL.dll
 C:\Users\ca r221.14\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.pdb
 C:\Users\ca r221.14\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\ref\ScholarMVC.BL.dll
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\bin\Debug\net8.0\ScholarMVC.BL.deps.json
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\bin\Debug\net8.0\ScholarMVC.BL.dll
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\bin\Debug\net8.0\ScholarMVC.BL.pdb
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\bin\Debug\net8.0\ScholarMVC.DAL.dll
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\bin\Debug\net8.0\ScholarMVC.DAL.pdb
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.AssemblyInfo.cs
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.sourcelink.json
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarM.0B45F018.Up2Date
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.dll
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\obj\Debug\net8.0\refint\ScholarMVC.BL.dll
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.pdb
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.BL\obj\Debug\net8.0\ref\ScholarMVC.BL.dll

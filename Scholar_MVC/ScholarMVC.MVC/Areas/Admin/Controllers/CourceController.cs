@@ -36,24 +36,53 @@ public class CourceController : Controller
     }
 
     [HttpPost]
-    public IActionResult Create(CourceVM courceVM)
+    public IActionResult Create(CourceVM cources)
     {
         if (!ModelState.IsValid)
         {
-            return View(courceVM);
+            return View();
         }
-        _sourceService.Create(courceVM);
+        _sourceService.Create(cources);
         return RedirectToAction(nameof(Index));
     }
     #endregion
 
-    #region Create
+    #region Update
+    [HttpGet]
 
+    public IActionResult Update(int id)
+    {
+        Cource cource = _sourceService.GetAllCourcesById(id);
+        return View(cource);
+    }
 
+    [HttpPost]
+    public IActionResult Update(int id, Cource cource)
+    {
+        _sourceService.Update(id, cource);
+        return RedirectToAction(nameof(Index));
+    }
 
     #endregion
 
-    #region Create
+    #region Delete
+
+    [HttpGet]
+    public IActionResult Delete(int id)
+    {
+        Cource cource = _sourceService.GetAllCourcesById(id);
+        return View(cource);
+    }
+    [HttpPost]
+    [ActionName("Delete")]
+
+    public IActionResult DeleteItem(int id)
+    {
+        _sourceService.Delete(id);
+         return  RedirectToAction(nameof(Index));
+    }
+         
+
 
     #endregion
 }

@@ -1,0 +1,38 @@
+﻿@model Cource
+
+<div class="col-sm-12 col-xl-6">
+    <div class="bg-secondary rounded h-100 p-4">
+        <h6 class="mb-4">Delete Form</h6>
+        <form asp-area="Admin" asp-controller="Cource" asp-action="Delete" method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Category</label>
+                <input asp-for="Category" class="form-control" id="">
+                <span asp-validation-for="Category" class="text-danger"></span>
+
+            </div>
+
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Teacher</label>
+                <input asp-for="Teacher" class="form-control" id="">
+                <span asp-validation-for="Teacher" class="text-danger"></span>
+
+            </div>
+
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Price</label>
+                <input asp-for="Price" class="form-control" id="">
+                <span asp-validation-for="Price" class="text-danger"></span>
+
+            </div>
+
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Image</label>
+                <input asp-for="ImgPath" class="form-control" id="">
+                <span asp-validation-for="ImgPath" class="text-danger"></span>
+
+            </div>
+
+            <button type="submit" class="btn btn-primary">Delete</button>
+        </form>
+    </div>
+</div>

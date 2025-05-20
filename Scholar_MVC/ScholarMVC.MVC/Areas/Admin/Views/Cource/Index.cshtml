@@ -59,7 +59,10 @@
                                         $ @item.Price
                                     </td>
                                     <td>
-                                       
+                                        <button asp-area="Admin" asp-controller="Cource" asp-action="Info" asp-route-id="@item.Id" class="btn btn-info rounded-pill m-2">Info</button>
+                                        <button asp-area="Admin" asp-controller="Cource" asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning rounded-pill m-2">Update</button>
+                                        <button asp-area="Admin" asp-controller="Cource" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger rounded-pill m-2">Delete</button>
+
                                     </td>
                                 </tr>
                             }

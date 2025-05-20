@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScholarMVC.BL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+709a8e043b6b10261ce1ec8aa9f0cf0c402e0824")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScholarMVC.BL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScholarMVC.BL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

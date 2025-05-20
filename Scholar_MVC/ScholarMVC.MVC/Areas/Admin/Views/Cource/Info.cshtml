@@ -1,0 +1,79 @@
+﻿@model Cource
+
+<div class="row">
+
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Striped Table</h4>
+                <p class="card-description">
+                    Add class <code>.table-striped</code>
+                </p>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    Image
+                                </th>
+                                <th>
+                                    #
+                                </th>
+                                <th>
+                                    Category
+                                </th>
+                                <th>
+                                    Teacher
+                                </th>
+                                <th>
+                                    Price
+                                </th>
+                                <th>
+                                    Action
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                          
+                                <tr>
+
+                                    <td class="py-1">
+                                        <img src="~/assets/images/img/@Model.ImgPath" alt="image" />
+                                    </td>
+                                    <td>
+                                        @Model.Id
+                                    </td>
+                                    <td>
+                                        @Model.Category
+                                    </td>
+                                    <td>
+                                        <div class="progress">
+                                            <div class="progress-bar bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        @Model.Teacher
+                                    </td>
+                                    <td>
+                                        $ @Model.Price
+                                    </td>
+                                    <td>
+                                    <button asp-area="Admin" asp-controller="Cource" asp-action="Info" asp-route-id="@Model.Id" class="btn btn-info rounded-pill m-2">Info</button>
+                                    <button asp-area="Admin" asp-controller="Cource" asp-action="Update" asp-route-id="@Model.Id" class="btn btn-warning rounded-pill m-2">Update</button>
+                                    <button asp-area="Admin" asp-controller="Cource" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger rounded-pill m-2">Delete</button>
+
+                                    </td>
+                                </tr>
+                            
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+

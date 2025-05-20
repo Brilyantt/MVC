@@ -12,3 +12,18 @@ C:\Users\ca r221.14\source\repos\ScholarMVC\ScholarMVC.DAL\obj\Debug\net8.0\ref\
 C:\Users\ca r221.14\source\repos\ScholarMVC\ScholarMVC.DAL\bin\Debug\net8.0\ScholarMVC.DAL.runtimeconfig.json
 C:\Users\ca r221.14\source\repos\ScholarMVC\ScholarMVC.DAL\obj\Debug\net8.0\ScholarMVC.DAL.csproj.AssemblyReference.cache
 C:\Users\ca r221.14\source\repos\ScholarMVC\ScholarMVC.DAL\obj\Debug\net8.0\ScholarMVC.DAL.genruntimeconfig.cache
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\bin\Debug\net8.0\ScholarMVC.DAL.deps.json
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\bin\Debug\net8.0\ScholarMVC.DAL.runtimeconfig.json
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\bin\Debug\net8.0\ScholarMVC.DAL.dll
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\bin\Debug\net8.0\ScholarMVC.DAL.pdb
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\obj\Debug\net8.0\ScholarMVC.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\obj\Debug\net8.0\ScholarMVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\obj\Debug\net8.0\ScholarMVC.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\obj\Debug\net8.0\ScholarMVC.DAL.AssemblyInfo.cs
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\obj\Debug\net8.0\ScholarMVC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\obj\Debug\net8.0\ScholarMVC.DAL.sourcelink.json
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\obj\Debug\net8.0\ScholarMVC.DAL.dll
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\obj\Debug\net8.0\refint\ScholarMVC.DAL.dll
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\obj\Debug\net8.0\ScholarMVC.DAL.pdb
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\obj\Debug\net8.0\ScholarMVC.DAL.genruntimeconfig.cache
+C:\Users\HP\Desktop\MVC\Scholar_MVC\ScholarMVC.DAL\obj\Debug\net8.0\ref\ScholarMVC.DAL.dll

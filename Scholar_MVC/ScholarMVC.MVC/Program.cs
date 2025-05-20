@@ -11,10 +11,9 @@ namespace ScholarMVC.MVC
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
 
-            string connectionStr = builder.Configuration.GetConnectionString("Desktop");
 
             builder.Services.AddDbContext<AppDbContext>(opt =>
-            opt.UseSqlServer(connectionStr)
+            opt.UseSqlServer(builder.Configuration.GetConnectionString("HP"))
             );
 
 

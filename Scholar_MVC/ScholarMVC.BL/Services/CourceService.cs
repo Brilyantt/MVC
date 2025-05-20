@@ -33,7 +33,7 @@ public class CourceService
 
         cource.ImgPath = fullName;
 
-        string updatedPath = "C:\\Users\\ca r221.14\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\img";
+        string updatedPath = "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\img";
 
         if (!Directory.Exists(updatedPath))
         {
@@ -61,7 +61,7 @@ public class CourceService
     public Cource GetAllCourcesById(int id)
     {
         Cource cource = _context.Cources.Find(id);
-        if (cource is null)
+        if (cource is not null)
         {
             return cource;
         }
@@ -79,8 +79,8 @@ public class CourceService
             throw new CourceException("Data yoxdur");
 
         }
-        Cource baseCource = _context.Cources.AsNoTracking().SingleOrDefault(c => c.Id == id);
-        if (baseCource is not null)
+        Cource? baseCource = _context.Cources.AsNoTracking().SingleOrDefault(c => c.Id == id);
+        if (baseCource is  null)
         {
             throw new CourceException("Data yoxdur");
         }
@@ -94,12 +94,18 @@ public class CourceService
 
     public void Delete(int id)
     {
-        Cource cource = _context.Cources.Find(id);
+        Cource? cource = _context.Cources.Find(id);
         if (cource is null)
         {
             _context.Cources.Remove(cource);
             _context.SaveChanges();
         }
+        else
+        {
+            throw new CourceException("Data Yoxdur!");
+        }
+
+
     }
 
     #endregion
