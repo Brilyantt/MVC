@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.mvc\\areas\\admin\\views\\cource\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\views\\cource\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.mvc\\areas\\admin\\views\\cource\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\views\\cource\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.mvc\\areas\\admin\\controllers\\courcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\controllers\\courcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E27FFC9-561B-4F94-A9C7-DC90688C2795}|ScholarMVC.BL\\ScholarMVC.BL.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.bl\\services\\courceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E27FFC9-561B-4F94-A9C7-DC90688C2795}|ScholarMVC.BL\\ScholarMVC.BL.csproj|solutionrelative:scholarmvc.bl\\services\\courceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.mvc\\areas\\admin\\views\\cource\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\views\\cource\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,20 +35,8 @@
       "RelativeMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\views\\cource\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E27FFC9-561B-4F94-A9C7-DC90688C2795}|ScholarMVC.BL\\ScholarMVC.BL.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.bl\\services\\courceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E27FFC9-561B-4F94-A9C7-DC90688C2795}|ScholarMVC.BL\\ScholarMVC.BL.csproj|solutionrelative:scholarmvc.bl\\services\\courceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.mvc\\areas\\admin\\controllers\\courcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\controllers\\courcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -49,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.mvc\\areas\\admin\\views\\cource\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\views\\cource\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\scholar_mvc\\scholarmvc.mvc\\areas\\admin\\views\\cource\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72FEDBB7-1C4F-448F-8D68-3299B546881F}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\views\\cource\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "CourceController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Controllers\\CourceController.cs",
               "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Controllers\\CourceController.cs",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CourceService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.BL\\Services\\CourceService.cs",
               "RelativeDocumentMoniker": "ScholarMVC.BL\\Services\\CourceService.cs",
@@ -95,19 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Create.cshtml",
-              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Create.cshtml",
-              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T22:00:28.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -119,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Delete.cshtml",
               "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Delete.cshtml",
@@ -131,19 +119,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Program.cs",
               "RelativeDocumentMoniker": "ScholarMVC.MVC\\Program.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Program.cs",
               "RelativeToolTip": "ScholarMVC.MVC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T21:35:55.648Z"
+              "WhenOpened": "2025-05-20T21:35:55.648Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "ScholarMVC.MVC\\appsettings.json",
@@ -155,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Update.cshtml",
               "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Update.cshtml",
@@ -163,12 +152,48 @@
               "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T22:10:04.702Z",
+              "WhenOpened": "2025-05-20T22:10:04.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Info.cshtml",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Info.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Info.cshtml",
+              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Info.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T21:53:08.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Index.cshtml",
+              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T21:53:14.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Create.cshtml",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Create.cshtml",
+              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T22:00:28.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ScholarMVC.MVC\\Controllers\\HomeController.cs",
@@ -180,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CourceVM.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.BL\\ViewModels\\CourceVM.cs",
               "RelativeDocumentMoniker": "ScholarMVC.BL\\ViewModels\\CourceVM.cs",
@@ -192,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Cource.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.DAL\\Models\\Cource.cs",
               "RelativeDocumentMoniker": "ScholarMVC.DAL\\Models\\Cource.cs",
@@ -204,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ScholarMVC.MVC\\Views\\Home\\Index.cshtml",
@@ -213,30 +238,6 @@
               "ViewState": "AQIAAMAAAAAAAAAAAAAAANkAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-20T22:55:45.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Index.cshtml",
-              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Index.cshtml",
-              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAABYAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T21:53:14.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Info.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Info.cshtml",
-              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Info.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\Scholar_MVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Info.cshtml",
-              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Cource\\Info.cshtml",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAwDwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T21:53:08.217Z"
             }
           ]
         }

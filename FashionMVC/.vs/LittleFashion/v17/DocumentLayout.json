@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\MVC\\FashionMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\MVC\\FashionMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{592173A9-F029-4625-B553-6C6E6F41B90D}|LittleFashion\\LittleFashion.csproj|c:\\users\\ca r221.14\\desktop\\mvc\\fashionmvc\\littlefashion\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{592173A9-F029-4625-B553-6C6E6F41B90D}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{592173A9-F029-4625-B553-6C6E6F41B90D}|LittleFashion\\LittleFashion.csproj|c:\\users\\hp\\desktop\\mvc\\fashionmvc\\littlefashion\\models\\featuredproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592173A9-F029-4625-B553-6C6E6F41B90D}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\models\\featuredproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{592173A9-F029-4625-B553-6C6E6F41B90D}|LittleFashion\\LittleFashion.csproj|c:\\users\\ca r221.14\\desktop\\mvc\\fashionmvc\\littlefashion\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{592173A9-F029-4625-B553-6C6E6F41B90D}|LittleFashion\\LittleFashion.csproj|c:\\users\\hp\\desktop\\mvc\\fashionmvc\\littlefashion\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{592173A9-F029-4625-B553-6C6E6F41B90D}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592173A9-F029-4625-B553-6C6E6F41B90D}|LittleFashion\\LittleFashion.csproj|c:\\users\\hp\\desktop\\mvc\\fashionmvc\\littlefashion\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592173A9-F029-4625-B553-6C6E6F41B90D}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592173A9-F029-4625-B553-6C6E6F41B90D}|LittleFashion\\LittleFashion.csproj|c:\\users\\hp\\desktop\\mvc\\fashionmvc\\littlefashion\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{592173A9-F029-4625-B553-6C6E6F41B90D}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +31,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FeaturedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\FashionMVC\\LittleFashion\\Models\\FeaturedProduct.cs",
+              "RelativeDocumentMoniker": "LittleFashion\\Models\\FeaturedProduct.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\FashionMVC\\LittleFashion\\Models\\FeaturedProduct.cs",
+              "RelativeToolTip": "LittleFashion\\Models\\FeaturedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:05:31.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\FashionMVC\\LittleFashion\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "LittleFashion\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\FashionMVC\\LittleFashion\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "LittleFashion\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:04:08.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC\\FashionMVC\\LittleFashion\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\FashionMVC\\LittleFashion\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "LittleFashion\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC\\FashionMVC\\LittleFashion\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\FashionMVC\\LittleFashion\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "LittleFashion\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T09:51:35.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T09:51:35.62Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC\\FashionMVC\\LittleFashion\\Services\\ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\FashionMVC\\LittleFashion\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "LittleFashion\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC\\FashionMVC\\LittleFashion\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\FashionMVC\\LittleFashion\\Services\\ProductService.cs",
               "RelativeToolTip": "LittleFashion\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T09:50:15.545Z"
             }

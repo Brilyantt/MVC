@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|solutionrelative:gymproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|c:\\users\\hp\\desktop\\mvc\\gymmvc\\gymproject\\areas\\admin\\views\\gymprogram\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|solutionrelative:gymproject\\areas\\admin\\views\\gymprogram\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|c:\\users\\hp\\desktop\\mvc\\gymmvc\\gymproject\\areas\\admin\\views\\gymprogram\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|solutionrelative:gymproject\\areas\\admin\\views\\gymprogram\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|c:\\users\\hp\\desktop\\mvc\\gymmvc\\gymproject\\services\\gymprogramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|solutionrelative:gymproject\\services\\gymprogramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|c:\\users\\hp\\desktop\\mvc\\gymmvc\\gymproject\\areas\\admin\\views\\gymprogram\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|solutionrelative:gymproject\\areas\\admin\\views\\gymprogram\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|c:\\users\\hp\\desktop\\mvc\\gymmvc\\gymproject\\areas\\admin\\views\\gymprogram\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,12 +23,16 @@
       "RelativeMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|solutionrelative:gymproject\\areas\\admin\\views\\gymprogram\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|c:\\users\\hp\\desktop\\mvc\\gymmvc\\gymproject\\areas\\admin\\controllers\\gymprogramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|solutionrelative:gymproject\\areas\\admin\\controllers\\gymprogramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|c:\\users\\hp\\desktop\\mvc\\gymmvc\\gymproject\\areas\\admin\\views\\gymprogram\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|solutionrelative:gymproject\\areas\\admin\\views\\gymprogram\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|c:\\users\\hp\\desktop\\mvc\\gymmvc\\gymproject\\services\\gymprogramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|solutionrelative:gymproject\\services\\gymprogramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|c:\\users\\hp\\desktop\\mvc\\gymmvc\\gymproject\\areas\\admin\\controllers\\gymprogramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|solutionrelative:gymproject\\areas\\admin\\controllers\\gymprogramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{700766D3-7D29-435C-99AF-CE20DA7C7C30}|GYMProject\\GYMProject.csproj|c:\\users\\hp\\desktop\\mvc\\gymmvc\\gymproject\\viewmodels\\gymprogramvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,20 +78,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "GymProgramService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\Services\\GymProgramService.cs",
               "RelativeDocumentMoniker": "GYMProject\\Services\\GymProgramService.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\Services\\GymProgramService.cs",
               "RelativeToolTip": "GYMProject\\Services\\GymProgramService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABQAAAADAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwBQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T21:49:33.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GymProgramController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\Areas\\Admin\\Controllers\\GymProgramController.cs",
               "RelativeDocumentMoniker": "GYMProject\\Areas\\Admin\\Controllers\\GymProgramController.cs",
@@ -99,12 +99,11 @@
               "RelativeToolTip": "GYMProject\\Areas\\Admin\\Controllers\\GymProgramController.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAYwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T21:48:24.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T21:48:24.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\Areas\\Admin\\Views\\GymProgram\\Create.cshtml",
               "RelativeDocumentMoniker": "GYMProject\\Areas\\Admin\\Views\\GymProgram\\Create.cshtml",
@@ -117,52 +116,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\Areas\\Admin\\Views\\GymProgram\\Index.cshtml",
               "RelativeDocumentMoniker": "GYMProject\\Areas\\Admin\\Views\\GymProgram\\Index.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\Areas\\Admin\\Views\\GymProgram\\Index.cshtml",
               "RelativeToolTip": "GYMProject\\Areas\\Admin\\Views\\GymProgram\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAvAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T21:25:27.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\Areas\\Admin\\Views\\GymProgram\\Delete.cshtml",
               "RelativeDocumentMoniker": "GYMProject\\Areas\\Admin\\Views\\GymProgram\\Delete.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\Areas\\Admin\\Views\\GymProgram\\Delete.cshtml",
               "RelativeToolTip": "GYMProject\\Areas\\Admin\\Views\\GymProgram\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T21:24:58.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Info.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\Areas\\Admin\\Views\\GymProgram\\Info.cshtml",
               "RelativeDocumentMoniker": "GYMProject\\Areas\\Admin\\Views\\GymProgram\\Info.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\Areas\\Admin\\Views\\GymProgram\\Info.cshtml",
               "RelativeToolTip": "GYMProject\\Areas\\Admin\\Views\\GymProgram\\Info.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T21:25:10.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\Areas\\Admin\\Views\\GymProgram\\Update.cshtml",
               "RelativeDocumentMoniker": "GYMProject\\Areas\\Admin\\Views\\GymProgram\\Update.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\Areas\\Admin\\Views\\GymProgram\\Update.cshtml",
               "RelativeToolTip": "GYMProject\\Areas\\Admin\\Views\\GymProgram\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T21:25:04.072Z",
               "EditorCaption": ""
@@ -190,8 +189,7 @@
               "RelativeToolTip": "GYMProject\\ViewModels\\GymProgramVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T06:50:40.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T06:50:40.778Z"
             },
             {
               "$type": "Document",

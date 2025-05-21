@@ -1856,6 +1856,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\Lili4c642a67-263f-4684-8659-38e5fed2e680.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\Screenshot 2024-11-04 0215483bb02535-f026-4d25-a9d3-074fc3b10309.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>GYMProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GYMProject</BasePath>
+      <RelativePath>assets/images/img/Screenshot 2024-11-04 0215483bb02535-f026-4d25-a9d3-074fc3b10309.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\Screenshot 2024-11-04 0215483bb02535-f026-4d25-a9d3-074fc3b10309.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\img\Screenshot 2024-11-16 0826194c545527-f381-4c33-be23-627f0e8c06c3.png))">
       <SourceType>Package</SourceType>
       <SourceId>GYMProject</SourceId>

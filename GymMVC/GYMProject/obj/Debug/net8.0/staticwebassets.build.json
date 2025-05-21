@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sSIxL7QQFjJJhCVKt3Uhgfg4Qwgv/8aAnGipe9JRXEk=",
+  "Hash": "5+hwkHXrViBDmsicoFCGJGgWupTUiwdTNad8rGRvRJA=",
   "Source": "GYMProject",
   "BasePath": "_content/GYMProject",
   "Mode": "Default",
@@ -2219,6 +2219,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\img\\Lili4c642a67-263f-4684-8659-38e5fed2e680.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\img\\Screenshot 2024-11-04 0215483bb02535-f026-4d25-a9d3-074fc3b10309.png",
+      "SourceId": "GYMProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\",
+      "BasePath": "_content/GYMProject",
+      "RelativePath": "assets/images/img/Screenshot 2024-11-04 0215483bb02535-f026-4d25-a9d3-074fc3b10309.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\img\\Screenshot 2024-11-04 0215483bb02535-f026-4d25-a9d3-074fc3b10309.png"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\MVC\\GymMVC\\GYMProject\\wwwroot\\assets\\images\\img\\Screenshot 2024-11-16 0826194c545527-f381-4c33-be23-627f0e8c06c3.png",

@@ -12,7 +12,7 @@ namespace CarMVC
 
             app.MapControllerRoute(
             name: "areas",
-            pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
+            pattern: "{area:exists}/{controller=FeaturedCar}/{action=Index}/{id?}"
           );
 
             app.MapControllerRoute(

@@ -1,48 +1,17 @@
-<<<<<<< HEAD
-﻿@model GymProgramVM
-
-<div class="col-md-6 grid-margin stretch-card">
-    <div class="card">
-        <div class="card-body">
-            <h4 class="card-title">Info form</h4>
-            <p class="card-description">
-                Info form layout
-            </p>
-            <form asp-area="Admin" asp-controller="GymProgram" asp-action="Info" method="post" enctype="multipart/form-data">
-                <div class="form-group">
-                    <label for="exampleInputUsername1">Category</label>
-                    <input type="text" class="form-control" id="exampleInputUsername1" placeholder="Username">
-                </div>
-                <div class="form-group">
-                    <label for="exampleInputUsername1">Image</label>
-                    <input class="form-control" id="exampleInputUsername1" placeholder="Username">
-                </div>
-
-                <div class="form-check form-check-flat form-check-primary">
-                    <label class="form-check-label">
-                        <input type="checkbox" class="form-check-input">
-                        Remember me
-                    </label>
-                </div>
-                <button type="submit" class="btn btn-primary mr-2">Create</button>
-            </form>
-        </div>
-    </div>
-=======
-﻿      @model GymProgram
+      @model GymProgram
 <div class="col-lg-12 grid-margin stretch-card">
     <div class="card">
         <div class="card-body">
             <h4 class="card-title">Striped Table</h4>
             <p class="card-description">
-                Add class <code>.table-striped</code>
+                <a asp-area="Admin" asp-controller="GymProgram" asp-action="Create"> Create <code>Table</code></a>
             </p>
             <div class="table-responsive">
                 <table class="table table-striped">
                     <thead>
                         <tr>
                             <th>
-                                Image
+                                image
                             </th>
                             <th>
                                 #
@@ -58,7 +27,7 @@
                        
                             <tr>
                                 <td class="py-1">
-                                    <img src="~/assets/images/@Model.ImgPath" alt="image" />
+                                    <img src="~/assets/images/img/@Model.ImgPath" alt="image" />
                                 </td>
                                 <td>
                                     @Model.Id
@@ -81,7 +50,7 @@
                                 </td>
 
                             </tr>
-                      
+                        
 
                     </tbody>
                 </table>
@@ -90,4 +59,3 @@
     </div>
 </div>
 
->>>>>>> 2506184f3cbe89e8029f18e811e7cbf74cf14b34

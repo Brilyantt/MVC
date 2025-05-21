@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\MVC\\FiorellaMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorellamvc\\fiorella\\services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|c:\\users\\hp\\desktop\\mvc\\fiorellamvc\\fiorella\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32876D7B-B67D-429F-8D47-6CDA8A35E37A}|Fiorella\\Fiorella.csproj|solutionrelative:fiorella\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\FiorellaMVC\\Fiorella\\Services\\FlowerService.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Services\\FlowerService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\FiorellaMVC\\Fiorella\\Services\\FlowerService.cs",
+              "RelativeToolTip": "Fiorella\\Services\\FlowerService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T00:16:42.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\FiorellaMVC\\Fiorella\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Fiorella\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\FiorellaMVC\\Fiorella\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Fiorella\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T00:16:07.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

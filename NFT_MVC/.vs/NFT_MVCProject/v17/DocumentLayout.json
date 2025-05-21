@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E97F1D04-3F1E-4262-BB35-75E4288D2C56}|NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\nft_mvc\\nft_mvcproject.mvc\\areas\\admin\\views\\collection\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E97F1D04-3F1E-4262-BB35-75E4288D2C56}|NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj|solutionrelative:nft_mvcproject.mvc\\areas\\admin\\views\\collection\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97F1D04-3F1E-4262-BB35-75E4288D2C56}|NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\nft_mvc\\nft_mvcproject.mvc\\areas\\admin\\views\\collection\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E97F1D04-3F1E-4262-BB35-75E4288D2C56}|NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj|solutionrelative:nft_mvcproject.mvc\\areas\\admin\\views\\collection\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1F3CD27-FF0A-4FCA-8ED7-E600164AAAD8}|NFT_MVCProject.BL\\NFT_MVCProject.BL.csproj|c:\\users\\hp\\desktop\\mvc\\nft_mvc\\nft_mvcproject.bl\\services\\collectionsmarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1F3CD27-FF0A-4FCA-8ED7-E600164AAAD8}|NFT_MVCProject.BL\\NFT_MVCProject.BL.csproj|solutionrelative:nft_mvcproject.bl\\services\\collectionsmarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{E97F1D04-3F1E-4262-BB35-75E4288D2C56}|NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj|solutionrelative:nft_mvcproject.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E97F1D04-3F1E-4262-BB35-75E4288D2C56}|NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\nft_mvc\\nft_mvcproject.mvc\\areas\\admin\\views\\collection\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E97F1D04-3F1E-4262-BB35-75E4288D2C56}|NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj|solutionrelative:nft_mvcproject.mvc\\areas\\admin\\views\\collection\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E97F1D04-3F1E-4262-BB35-75E4288D2C56}|NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\nft_mvc\\nft_mvcproject.mvc\\areas\\admin\\views\\collection\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E97F1D04-3F1E-4262-BB35-75E4288D2C56}|NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj|solutionrelative:nft_mvcproject.mvc\\areas\\admin\\views\\collection\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E97F1D04-3F1E-4262-BB35-75E4288D2C56}|NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj|c:\\users\\hp\\desktop\\mvc\\nft_mvc\\nft_mvcproject.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E97F1D04-3F1E-4262-BB35-75E4288D2C56}|NFT_MVCProject.MVC\\NFT_MVCProject.MVC.csproj|solutionrelative:nft_mvcproject.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,37 +74,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CollectionsMarketService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.BL\\Services\\CollectionsMarketService.cs",
               "RelativeDocumentMoniker": "NFT_MVCProject.BL\\Services\\CollectionsMarketService.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.BL\\Services\\CollectionsMarketService.cs",
               "RelativeToolTip": "NFT_MVCProject.BL\\Services\\CollectionsMarketService.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwBsAAABQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T15:09:39.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CollectionController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Controllers\\CollectionController.cs",
-              "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\Areas\\Admin\\Controllers\\CollectionController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Controllers\\CollectionController.cs",
-              "RelativeToolTip": "NFT_MVCProject.MVC\\Areas\\Admin\\Controllers\\CollectionController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwC4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T15:08:56.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
               "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
@@ -116,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\Views\\Home\\Index.cshtml",
@@ -128,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -140,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CollectionsMarketVM.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.BL\\ViewModels\\CollectionsMarketVM.cs",
               "RelativeDocumentMoniker": "NFT_MVCProject.BL\\ViewModels\\CollectionsMarketVM.cs",
@@ -152,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Info.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
               "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
@@ -164,7 +151,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
+              "RelativeToolTip": "NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T17:28:58.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
+              "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
+              "RelativeToolTip": "NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T17:29:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollectionController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Controllers\\CollectionController.cs",
+              "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\Areas\\Admin\\Controllers\\CollectionController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Controllers\\CollectionController.cs",
+              "RelativeToolTip": "NFT_MVCProject.MVC\\Areas\\Admin\\Controllers\\CollectionController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:08:56.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\Controllers\\HomeController.cs",
@@ -176,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.DAL\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "NFT_MVCProject.DAL\\Contexts\\AppDbContext.cs",
@@ -188,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
               "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
@@ -212,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\appsettings.json",
@@ -225,30 +250,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
-              "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
-              "RelativeToolTip": "NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T17:29:12.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
-              "RelativeDocumentMoniker": "NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
-              "RelativeToolTip": "NFT_MVCProject.MVC\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T17:28:58.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "CollectionsMarket.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\NFT_MVC\\NFT_MVCProject.DAL\\Models\\CollectionsMarket.cs",
               "RelativeDocumentMoniker": "NFT_MVCProject.DAL\\Models\\CollectionsMarket.cs",

@@ -1,5 +1,6 @@
 ﻿using CarMVC.Models;
 using CarMVC.Services;
+using CarMVC.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CarMVC.Areas.Admin.Controllers;
@@ -36,8 +37,12 @@ public class FeaturedCarController : Controller
 
 
     [HttpPost]
-    public IActionResult Create(FeaturedCar car)
+    public IActionResult Create(FeaturedCarVM car)
     {
+        if (!ModelState.IsValid)
+        {
+            return BadRequest("modelde sixinti var");
+        }
         _featuredCarService.CreateFeaturedcar(car);
         return RedirectToAction(nameof(Index));
     }

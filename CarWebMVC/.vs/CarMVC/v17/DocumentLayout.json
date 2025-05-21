@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\areas\\admin\\views\\featuredcar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\areas\\admin\\views\\featuredcar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\areas\\admin\\views\\featuredcar\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\areas\\admin\\views\\featuredcar\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\areas\\admin\\views\\featuredcar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\areas\\admin\\views\\featuredcar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\areas\\admin\\controllers\\featuredcarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\areas\\admin\\controllers\\featuredcarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\areas\\admin\\views\\featuredcar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\areas\\admin\\views\\featuredcar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\viewmodels\\featuredcarvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\viewmodels\\featuredcarvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\models\\featuredcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\models\\featuredcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\services\\featuredcarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\services\\featuredcarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\areas\\admin\\views\\featuredcar\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\areas\\admin\\views\\featuredcar\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\areas\\admin\\views\\featuredcar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\areas\\admin\\views\\featuredcar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|solutionrelative:carmvc\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E961B2B-CF76-481F-A1A7-EC493B444B0E}|CarMVC\\CarMVC.csproj|c:\\users\\hp\\desktop\\mvc\\carwebmvc\\carmvc\\exceptions\\featuredcarexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,78 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Info.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Info.cshtml",
-              "RelativeDocumentMoniker": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Info.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Info.cshtml",
-              "RelativeToolTip": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Info.cshtml",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAAADsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T07:00:08.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FeaturedCarException.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Exceptions\\FeaturedCarException.cs",
-              "RelativeDocumentMoniker": "CarMVC\\Exceptions\\FeaturedCarException.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Exceptions\\FeaturedCarException.cs",
-              "RelativeToolTip": "CarMVC\\Exceptions\\FeaturedCarException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:29:51.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CarMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CarMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T02:33:31.501Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Delete.cshtml",
-              "RelativeDocumentMoniker": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Delete.cshtml",
-              "RelativeToolTip": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T22:23:28.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Create.cshtml",
-              "RelativeDocumentMoniker": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Create.cshtml",
-              "RelativeToolTip": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Create.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T22:13:57.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Index.cshtml",
               "RelativeDocumentMoniker": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Index.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Index.cshtml",
               "RelativeToolTip": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Index.cshtml",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIYAAAApAAAA",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHoAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-14T22:07:24.186Z",
               "EditorCaption": ""
@@ -126,21 +85,150 @@
               "RelativeDocumentMoniker": "CarMVC\\Services\\FeaturedCarService.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Services\\FeaturedCarService.cs",
               "RelativeToolTip": "CarMVC\\Services\\FeaturedCarService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCMAAABRAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wCgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T21:19:45.861Z"
+              "WhenOpened": "2025-05-14T21:19:45.861Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Info.cshtml",
+              "RelativeDocumentMoniker": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Info.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Info.cshtml",
+              "RelativeToolTip": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Info.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:00:08.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FeaturedCarController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Controllers\\FeaturedCarController.cs",
               "RelativeDocumentMoniker": "CarMVC\\Areas\\Admin\\Controllers\\FeaturedCarController.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Controllers\\FeaturedCarController.cs",
               "RelativeToolTip": "CarMVC\\Areas\\Admin\\Controllers\\FeaturedCarController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAABLAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T21:17:10.683Z"
+              "WhenOpened": "2025-05-14T21:17:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Create.cshtml",
+              "RelativeToolTip": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T22:13:57.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Program.cs",
+              "RelativeDocumentMoniker": "CarMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Program.cs",
+              "RelativeToolTip": "CarMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T00:20:45.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FeaturedCar.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Models\\FeaturedCar.cs",
+              "RelativeDocumentMoniker": "CarMVC\\Models\\FeaturedCar.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Models\\FeaturedCar.cs",
+              "RelativeToolTip": "CarMVC\\Models\\FeaturedCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T00:24:57.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeaturedCarVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\ViewModels\\FeaturedCarVM.cs",
+              "RelativeDocumentMoniker": "CarMVC\\ViewModels\\FeaturedCarVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\ViewModels\\FeaturedCarVM.cs",
+              "RelativeToolTip": "CarMVC\\ViewModels\\FeaturedCarVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T00:24:55.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACwBAAAAAAAAAAAAAEcBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T00:21:25.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CarMVC\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "CarMVC\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T00:18:03.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Delete.cshtml",
+              "RelativeToolTip": "CarMVC\\Areas\\Admin\\Views\\FeaturedCar\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T22:23:28.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:33:31.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FeaturedCarException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Exceptions\\FeaturedCarException.cs",
+              "RelativeDocumentMoniker": "CarMVC\\Exceptions\\FeaturedCarException.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\Exceptions\\FeaturedCarException.cs",
+              "RelativeToolTip": "CarMVC\\Exceptions\\FeaturedCarException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:29:51.481Z"
             }
           ]
         }

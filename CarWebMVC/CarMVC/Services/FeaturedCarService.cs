@@ -1,6 +1,7 @@
 ﻿using CarMVC.Contexts;
 using CarMVC.Exceptions;
 using CarMVC.Models;
+using CarMVC.ViewModels;
 using Microsoft.EntityFrameworkCore;
 
 namespace CarMVC.Services;
@@ -16,8 +17,35 @@ public class FeaturedCarService
 
     #region Create
 
-    public void CreateFeaturedcar(FeaturedCar featuredCar)
+    public void CreateFeaturedcar(FeaturedCarVM featuredCarVM)
     {
+        FeaturedCar featuredCar= new FeaturedCar();
+
+        featuredCar.Name = featuredCarVM.Name;
+        featuredCar.Description = featuredCarVM.Description;
+        featuredCar.Model = featuredCarVM.Model;
+        featuredCar.Price = featuredCarVM.Price;
+
+        string fileName = Path.GetFileNameWithoutExtension(featuredCarVM.File.FileName);
+        string extension = Path.GetExtension(featuredCarVM.File.FileName);
+        string fullName = fileName + Guid.NewGuid().ToString() + extension;
+        Console.WriteLine(fullName);
+
+        featuredCar.ImgUrl = fullName;
+
+        string updatedPath = "C:\\Users\\HP\\Desktop\\MVC\\CarWebMVC\\CarMVC\\wwwroot\\assets\\images\\img";
+
+        if(!Directory.Exists(updatedPath))
+        {
+            Directory.CreateDirectory(updatedPath);
+        }
+
+        updatedPath = Path.Combine(updatedPath, fullName);
+
+        using FileStream fileStream = new FileStream(updatedPath, FileMode.Create);
+
+        featuredCarVM.File.CopyTo(fileStream);
+
         _context.FeaturedCars.Add(featuredCar);
         _context.SaveChanges();
     }

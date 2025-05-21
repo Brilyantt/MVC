@@ -1,14 +1,16 @@
-﻿@model FeaturedCar
+﻿@using CarMVC.ViewModels
+@model FeaturedCarVM
+
 
 <div class="container">
     <div class="row justify-content-center mt-5">
         <div class="col-sm-12 col-md-8 col-lg-6">
             <div class="bg-secondary rounded p-4">
                 <h6 class="mb-4 text-white"></h6>
-                <form asp-area="Admin" asp-controller="FeaturedCar" asp-action="Create" method="post">
+                <form asp-area="Admin" asp-controller="FeaturedCar" asp-action="Create" method="post" enctype="multipart/form-data">
                     <div class="mb-3">
                         <label for="" class="form-label text-white">Imgurl</label>
-                        <input asp-for="ImgUrl" class="form-control" id="" >                       
+                        <input asp-for="File" class="form-control" id="" >                       
                     </div>
 
                      <div class="mb-3">
